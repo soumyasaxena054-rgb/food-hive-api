@@ -1,0 +1,1829 @@
+[
+{
+"restaurants": [
+{
+"info": {
+"id": "764687",
+"name": "Blue Tokai Coffee Roasters",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/5/8ee6b983-6f27-4c6e-a1c3-b6a7d326f669_764687.JPG",
+"locality": "Sector 15",
+"areaName": "CBD Belapur",
+"costForTwo": "₹600 for two",
+"cuisines": [
+"Cafe",
+"Coffee",
+"Beverages"
+],
+"avgRating": 4.4,
+"parentId": "2682",
+"avgRatingString": "4.4",
+"totalRatingsString": "372",
+"sla": {
+"deliveryTime": 29,
+"lastMileTravel": 3.5,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/blue-tokai-coffee-roasters-sector-15-cbd-belapur-rest764687",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "23755",
+"name": "McDonald's",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/10/3/dd8fcdc7-ffdc-44dd-976c-80c4e055a138_23755.JPG",
+"locality": "Centurian",
+"areaName": "Nerul",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Burgers",
+"Beverages",
+"Cafe",
+"Desserts"
+],
+"avgRating": 4.6,
+"parentId": "630",
+"avgRatingString": "4.6",
+"totalRatingsString": "31K+",
+"sla": {
+"deliveryTime": 16,
+"lastMileTravel": 1.7,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+},
+{
+"imageId": "Rxawards/_CATEGORY-Burger.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+},
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Burger.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹399",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/mcdonalds-centurian-nerul-rest23755",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "491843",
+"name": "Theobroma",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/6/a1d8f5df-d3d2-4f85-aad8-292c0bc80de6_491843.JPG",
+"locality": "CBD Belapur",
+"areaName": "CBD Belapur",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Bakery",
+"Desserts"
+],
+"avgRating": 4.5,
+"parentId": "1040",
+"avgRatingString": "4.5",
+"totalRatingsString": "3.4K+",
+"sla": {
+"deliveryTime": 19,
+"lastMileTravel": 3,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "3.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Desserts.png",
+"description": "Delivery!"
+},
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Desserts.png"
+}
+},
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "50% OFF",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "309"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/theobroma-cbd-belapur-rest491843",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "343246",
+"name": "Starbucks Coffee",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/22/fd536a2b-fb3e-4e67-a407-9414ef586ac3_343246.JPG",
+"locality": "CBD-Belapur",
+"areaName": "CBD Belapur",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Beverages",
+"Cafe",
+"Snacks",
+"Desserts",
+"Bakery",
+"Ice Cream"
+],
+"avgRating": 4.5,
+"parentId": "195515",
+"avgRatingString": "4.5",
+"totalRatingsString": "1.7K+",
+"sla": {
+"deliveryTime": 23,
+"lastMileTravel": 3,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "3.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png",
+"description": "Delivery!"
+},
+{
+"imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png"
+}
+},
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹599"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "1.4K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/starbucks-coffee-cbd-belapur-rest343246",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "35794",
+"name": "Chaayos Chai+Snacks=Relax",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/2ce18342-6c04-4ebc-9725-788819ddaa56_35794.JPG",
+"locality": "LAKHANI SUN COAST",
+"areaName": "CBD Belapur Mumbai",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"Beverages",
+"Chaat",
+"Snacks",
+"Bakery",
+"Street Food",
+"healthy",
+"Home Food",
+"Maharashtrian",
+"Italian",
+"Desserts"
+],
+"avgRating": 4.5,
+"parentId": "281782",
+"avgRatingString": "4.5",
+"totalRatingsString": "4.9K+",
+"sla": {
+"deliveryTime": 24,
+"lastMileTravel": 3.5,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "3.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹199"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/chaayos-chai-snacks-relax-lakhani-sun-coast-cbd-belapur-mumbai-rest35794",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "657089",
+"name": "Subway",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/b43b3b57-8bc4-46ba-9146-110dd9943e60_657089.jpg",
+"locality": "PARADISE APARTMENT",
+"areaName": "Nerul",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"sandwich",
+"Salads",
+"wrap",
+"Healthy Food"
+],
+"avgRating": 4.2,
+"parentId": "2",
+"avgRatingString": "4.2",
+"totalRatingsString": "4.9K+",
+"sla": {
+"deliveryTime": 15,
+"lastMileTravel": 2,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "2.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 04:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹69"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/subway-paradise-apartment-nerul-rest657089",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "42580",
+"name": "Burger King",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/7d3770fe-002a-4267-9652-eb3b656d2642_42580.jpg",
+"locality": "AG Patil Marg",
+"areaName": "Nerul",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Burgers",
+"American"
+],
+"avgRating": 4.3,
+"parentId": "166",
+"avgRatingString": "4.3",
+"totalRatingsString": "34K+",
+"sla": {
+"deliveryTime": 18,
+"lastMileTravel": 2,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "2.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 06:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹59"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/burger-king-ag-patil-marg-nerul-rest42580",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "764884",
+"name": "Suchali's Artisan Bakehouse",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/5/903f99c7-f88f-447f-aca5-010db02450be_764884.JPG",
+"locality": "Sector 15",
+"areaName": "CBD Belapur",
+"costForTwo": "₹600 for two",
+"cuisines": [
+"Bakery",
+"Desserts",
+"Beverages"
+],
+"avgRating": 4.6,
+"parentId": "196351",
+"avgRatingString": "4.6",
+"totalRatingsString": "185",
+"sla": {
+"deliveryTime": 29,
+"lastMileTravel": 3.5,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/suchalis-artisan-bakehouse-sector-15-cbd-belapur-rest764884",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "355500",
+"name": "Home Plate by EatFit",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/13/982c0a1b-ed0c-49a7-a38d-5e9b66467a65_355500.JPG",
+"locality": "NERUL",
+"areaName": "Navi Mumbai",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"North Indian",
+"Home Food",
+"Healthy Food",
+"Indian",
+"Punjabi",
+"South Indian",
+"Rajasthani",
+"Maharashtrian",
+"Snacks",
+"Desserts"
+],
+"avgRating": 3.5,
+"veg": true,
+"parentId": "301197",
+"avgRatingString": "3.5",
+"totalRatingsString": "743",
+"sla": {
+"deliveryTime": 25,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹34"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/home-plate-by-eatfit-nerul-navi-mumbai-rest355500",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "558810",
+"name": "HRX by EatFit",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/4/e5455f4d-bbeb-4741-b7dd-3d7e441e2a10_558810.JPG",
+"locality": "SECTOR NO 50 NERUL",
+"areaName": "Nerul Zone (West)",
+"costForTwo": "₹450 for two",
+"cuisines": [
+"Healthy Food",
+"Salads",
+"Burgers"
+],
+"avgRating": 4.4,
+"parentId": "624615",
+"avgRatingString": "4.4",
+"totalRatingsString": "941",
+"sla": {
+"deliveryTime": 26,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "High%20Protein/rx%20tag%205.png",
+"description": "High Protein"
+},
+{
+"imageId": "Ratnesh_Badges/Rx_Awards_2025/Healthy.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "High Protein",
+"imageId": "High%20Protein/rx%20tag%205.png"
+}
+},
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Ratnesh_Badges/Rx_Awards_2025/Healthy.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹34"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/hrx-by-eatfit-sector-no-50-nerul-nerul-zone-west--rest558810",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "138648",
+"name": "Nothing But Chicken",
+"cloudinaryImageId": "xao1tx5z6ihmqr861byy",
+"locality": "Sector-44/A",
+"areaName": "Nerul",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Salads",
+"Biryani",
+"Kebabs",
+"Fast Food",
+"Healthy Food"
+],
+"avgRating": 4.5,
+"parentId": "668",
+"avgRatingString": "4.5",
+"totalRatingsString": "4.9K+",
+"sla": {
+"deliveryTime": 23,
+"lastMileTravel": 3,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "3.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 04:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "High%20Protein/rx%20tag%205.png",
+"description": "High Protein"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "High Protein",
+"imageId": "High%20Protein/rx%20tag%205.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹118"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/nothing-but-chicken-sector-44-a-nerul-rest138648",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "395288",
+"name": "McDonald's Gourmet Burger Collection",
+"cloudinaryImageId": "dprt0aq3vrcavxnoeksb",
+"locality": "Centurian",
+"areaName": "Nerul",
+"costForTwo": "₹600 for two",
+"cuisines": [
+"Burgers",
+"Beverages",
+"Cafe",
+"Desserts"
+],
+"avgRating": 4.5,
+"parentId": "10761",
+"avgRatingString": "4.5",
+"totalRatingsString": "468",
+"sla": {
+"deliveryTime": 17,
+"lastMileTravel": 1.7,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/mcdonalds-gourmet-burger-collection-centurian-nerul-rest395288",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "695662",
+"name": "Ovenfresh Cakes And Desserts",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/3/fa49ec37-e3a3-425b-b952-2633d37ead3c_695662.JPG",
+"locality": "Sector NO 50",
+"areaName": "Nerul",
+"costForTwo": "₹200 for two",
+"cuisines": [
+"Bakery",
+"Desserts",
+"Beverages",
+"Ice Cream",
+"Sweets",
+"Juices",
+"Bengali",
+"Pizzas"
+],
+"avgRating": 4.4,
+"parentId": "419247",
+"avgRatingString": "4.4",
+"totalRatingsString": "245",
+"sla": {
+"deliveryTime": 28,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 03:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "50% OFF",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/ovenfresh-cakes-and-desserts-sector-no-50-nerul-rest695662",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "570443",
+"name": "The Dessert Heaven - Pastry, Brownie and Cakes",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/3/7bb8846c-34d6-42af-98e8-102986d2defe_570443.JPG",
+"locality": "old 50 seawoods",
+"areaName": "Sector No50 Nerul",
+"costForTwo": "₹300 for two",
+"cuisines": [
+"Bakery",
+"Desserts",
+"Sweets",
+"Ice Cream"
+],
+"avgRating": 4.5,
+"veg": true,
+"parentId": "506176",
+"avgRatingString": "4.5",
+"totalRatingsString": "614",
+"sla": {
+"deliveryTime": 31,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 03:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "50% OFF",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/the-dessert-heaven-pastry-brownie-and-cakes-old-50-seawoods-sector-no50-nerul-rest570443",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "443517",
+"name": "EatFit",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/21/d817387d-5cd5-4cad-b85a-6c999699c4f9_443517.JPG",
+"locality": "SECTOR NO 50 NERUL",
+"areaName": "Nerul Zone (West)",
+"costForTwo": "₹270 for two",
+"cuisines": [
+"North Indian",
+"Healthy Food",
+"Thalis"
+],
+"avgRating": 4.3,
+"parentId": "76139",
+"avgRatingString": "4.3",
+"totalRatingsString": "2.7K+",
+"sla": {
+"deliveryTime": 24,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "High%20Protein/rx%20tag%205.png",
+"description": "High Protein"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "High Protein",
+"imageId": "High%20Protein/rx%20tag%205.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹35"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/eatfit-sector-no-50-nerul-nerul-zone-west--rest443517",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "570425",
+"name": "CakeZone Patisserie",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/3/5f577e48-32fd-4ae2-8418-1a0c15fdf597_570425.JPG",
+"locality": "Seawoods",
+"areaName": "Sector No50 Nerul",
+"costForTwo": "₹200 for two",
+"cuisines": [
+"Bakery",
+"Desserts",
+"Sweets",
+"Ice Cream"
+],
+"avgRating": 4.4,
+"parentId": "7003",
+"avgRatingString": "4.4",
+"totalRatingsString": "2.2K+",
+"sla": {
+"deliveryTime": 31,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 03:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "50% OFF",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/cakezone-patisserie-seawoods-sector-no50-nerul-rest570425",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "355499",
+"name": "Great Indian Khichdi by EatFit",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/21/8b288fd2-c919-4661-8f93-4bc17f7adf13_355499.JPG",
+"locality": "NERUL",
+"areaName": "Navi Mumbai",
+"costForTwo": "₹200 for two",
+"cuisines": [
+"Home Food",
+"Indian",
+"North Indian",
+"Healthy Food",
+"Snacks",
+"Desserts",
+"Rajasthani",
+"South Indian",
+"Maharashtrian",
+"Sweets"
+],
+"avgRating": 4.3,
+"veg": true,
+"parentId": "319582",
+"avgRatingString": "4.3",
+"totalRatingsString": "1.9K+",
+"sla": {
+"deliveryTime": 27,
+"lastMileTravel": 3.7,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "High%20Protein/rx%20tag%205.png",
+"description": "High Protein"
+},
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "High Protein",
+"imageId": "High%20Protein/rx%20tag%205.png"
+}
+},
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹34"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/great-indian-khichdi-by-eatfit-nerul-navi-mumbai-rest355499",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "34183",
+"name": "Cafe Coffee Day",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/21/bf449678-42ea-4622-942a-58da4f274a71_34183.JPG",
+"locality": "CBD-Belapur",
+"areaName": "CBD Belapur",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Beverages",
+"Cafe",
+"Snacks",
+"Desserts",
+"Burgers",
+"Ice Cream",
+"Bakery",
+"Fast Food"
+],
+"avgRating": 4.5,
+"parentId": "1",
+"avgRatingString": "4.5",
+"totalRatingsString": "2.2K+",
+"sla": {
+"deliveryTime": 30,
+"lastMileTravel": 2.7,
+"serviceability": "SERVICEABLE",
+"slaString": "30-40 mins",
+"lastMileTravelString": "2.7 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 00:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "50% OFF",
+"subHeader": "UPTO ₹100"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "735"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/cafe-coffee-day-cbd-belapur-rest34183",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "442048",
+"name": "The Belgian Waffle Co.",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/16/5043ac81-a2eb-42d2-ad56-28d0367d1343_442048.jpg",
+"locality": "CBD Belapur",
+"areaName": "Palm Beach Road",
+"costForTwo": "₹200 for two",
+"cuisines": [
+"Waffle",
+"Desserts",
+"Ice Cream"
+],
+"avgRating": 4.4,
+"veg": true,
+"parentId": "2233",
+"avgRatingString": "4.4",
+"totalRatingsString": "1.9K+",
+"sla": {
+"deliveryTime": 33,
+"lastMileTravel": 3,
+"serviceability": "SERVICEABLE",
+"slaString": "30-40 mins",
+"lastMileTravelString": "3.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-31 04:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Desserts.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Desserts.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹749",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/the-belgian-waffle-co-cbd-belapur-palm-beach-road-rest442048",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "192325",
+"name": "McCafe by McDonald's",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/19/add9b0f1-bd7d-4e4e-9d55-a56706b7b5f9_192325.jpg",
+"locality": "Seawoods",
+"areaName": "Nerul",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"American",
+"Beverages",
+"Desserts"
+],
+"avgRating": 4.3,
+"parentId": "8263",
+"avgRatingString": "4.3",
+"totalRatingsString": "111",
+"sla": {
+"deliveryTime": 23,
+"lastMileTravel": 1.8,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "4.0K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/mccafe-by-mcdonalds-seawoods-nerul-rest192325",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "7646870",
+"name": "Shree Gowri Krishnaa",
+"cloudinaryImageId": "df9be12e5ac0f22e0e0762cd30f021ee",
+"locality": "Sector 15",
+"areaName": "CBD Belapur",
+"costForTwo": "₹600 for two",
+"cuisines": [
+"South Indian",
+"Chinese"
+],
+"avgRating": 4.6,
+"parentId": "2682",
+"avgRatingString": "4.4",
+"totalRatingsString": "372",
+"sla": {
+"deliveryTime": 29,
+"lastMileTravel": 3.5,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "3.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-01-30 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-70d5b507-b88b-4643-a021-cf890ac67d86"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/mumbai/blue-tokai-coffee-roasters-sector-15-cbd-belapur-rest764687",
+"type": "WEBLINK"
+}
+}
+]
+}
+]
