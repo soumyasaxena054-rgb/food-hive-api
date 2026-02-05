@@ -1,0 +1,1935 @@
+[
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                "info": {
+                    "id": "355500",
+                    "name": "Home Plate by EatFit",
+                    "city": "Mumbai",
+                    "slugs": {
+                        "restaurant": "home-plate-nerul-nerul",
+                        "city": "mumbai"
+                    },
+                    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/13/982c0a1b-ed0c-49a7-a38d-5e9b66467a65_355500.JPG",
+                    "locality": "NERUL",
+                    "areaName": "Navi Mumbai",
+                    "costForTwo": "25000",
+                    "costForTwoMessage": "₹250 for two",
+                    "cuisines": [
+                        "North Indian",
+                        "Home Food"
+                    ],
+                    "avgRating": 3.5,
+                    "veg": true,
+                    "feeDetails": {
+                        "restaurantId": "355500",
+                        "fees": [
+                            {}
+                        ]
+                    },
+                    "parentId": "301197",
+                    "avgRatingString": "3.5",
+                    "totalRatingsString": "743 ratings",
+                    "sla": {
+                        "restaurantId": "355500",
+                        "deliveryTime": 26,
+                        "minDeliveryTime": 25,
+                        "maxDeliveryTime": 30,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "stressFactor": 1,
+                        "rainMode": "RAIN_MODE_NONE",
+                        "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                        "zoneId": 289,
+                        "slaString": "25-30 MINS",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2026-02-05 23:30:00",
+                        "visibility": true,
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                        "header": "66% Off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "66% Off | Use SWIGGY6",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "BXGY",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "66% Off | Use SWIGGY6",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "BXGY",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "visible": true
+                    },
+                    "badges": {},
+                    "slugString": "home-plate-nerul-nerul",
+                    "multiOutlet": true,
+                    "isOpen": true,
+                    "labels": [
+                        {
+                            "title": "Timings",
+                            "message": "null"
+                        },
+                        {
+                            "title": "Address",
+                            "message": "SHOP NO 4-5 & 6 GROUND FLOOR PLOT NO 5 SECTOR NO 50 NERUL , Nerul Zone (West), Navi Mumbai Municipal Corporation (Thane Zone-4)"
+                        },
+                        {
+                            "title": "Cuisines",
+                            "message": "North Indian,Home Food"
+                        }
+                    ],
+                    "logo": "Brand logo/HomePlateEatFit",
+                    "totalRatings": 743,
+                    "aggregatedDiscountInfoV2": {
+                        "header": "66% Off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "66% Off | Use SWIGGY6",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "BXGY",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "66% Off | Use SWIGGY6",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "BXGY",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "couponDetailsCta": "View coupon details"
+                    },
+                    "type": "F",
+                    "nudgeBanners": [
+                        {
+                            "priority": 9,
+                            "discountInfo": {
+                                "discountType": "FinalPrice",
+                                "value": 189
+                            },
+                            "unlockedMessage": "Deal of the Day unlocked!",
+                            "minItemCount": 1,
+                            "maxItemCount": 1,
+                            "type": "SILD",
+                            "nudgeTagInfo": {
+                                "title": "Deal of the Day",
+                                "fontName": "FONT_NAME_CONDENSED_BOLD"
+                            },
+                            "logoCtx": {},
+                            "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                        }
+                    ],
+                    "headerBanner": {
+                        "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/355500"
+                    },
+                    "ratingSlab": "RATING_SLAB_4",
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                    },
+                    "hasBestsellerItems": true,
+                    "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                    },
+                    "latLong": "19.00853276,73.01639361",
+                    "backgroundImageOverlayInfo": {},
+                    "featuredSectionInfo": {},
+                    "requestContexts": [
+                        "enable_ecosaver",
+                        "99store"
+                    ]
+                },
+                "analytics": {}
+            },
+            "relevance": {
+                "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+            }
+        }
+    },
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                "title": "Meals",
+                "itemCards": [
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "148673632",
+                                "name": "Amritsari Chole Chawal",
+                                "category": "Meals",
+                                "description": "Serves 1 | \"A popular Punjabi dish consisting of spicy and tangy chickpea curry, cooked with traditional Indian spices, served with aromatic Steam rice.\n\nAllergen Information- Contains Dairy\"",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/13f893ff-8780-416f-a9a3-0febb191eee5_8c5317cb-a420-4190-a562-df718c3acb4a.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 14000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081593",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081594",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.7",
+                                        "ratingCount": "8 ratings",
+                                        "ratingCountV2": "8"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "86743765",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "123047956",
+                                "name": "Classic Rajma Chawal",
+                                "category": "Meals",
+                                "description": "Serves 1 | Gently simmered red kidney beans cooked in onion tomato masala and aromatic Indian spices. Served with pickle.\nServed with Pickle of the day",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/dc1047ff-aad3-414d-9c5a-6014de2cdb63_e9c82d85-9186-4480-8362-0cf5e0ae3211.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 13000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081596",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081597",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081598",
+                                        "groupName": "Choose your Sides ",
+                                        "choices": [
+                                            {
+                                                "id": "124331670",
+                                                "name": "Boondi Raita",
+                                                "price": 3700,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331666",
+                                                "name": "Carrot Cucumber Salad - 60gm",
+                                                "price": 2900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606982",
+                                                "name": "Chocolate Pop Hustl Energy Bar",
+                                                "price": 5000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331668",
+                                                "name": "Moderate-Carb Cutter (1 -Tablet)",
+                                                "price": 3300,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606983",
+                                                "name": "Fruit Pop Hustl Energy Bar",
+                                                "price": 4200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331669",
+                                                "name": "Papad Churi",
+                                                "price": 1900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606984",
+                                                "name": "Moderate Happy Gut Probiotic Powder (1 Sachet)",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.6",
+                                        "ratingCount": "23 ratings",
+                                        "ratingCountV2": "23"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "70260228",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "148673624",
+                                "name": "Dal Makhani Chawal",
+                                "category": "Meals",
+                                "description": "Serves 1 | [Energy - 558 kcal | Protein - 17.8gm]A classic North Indian dish featuring creamy black lentils cooked with spices, served with steam rice. A delightful and comforting combination.\nAllergen Information- Contains Dairy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/7c10abed-774d-47c0-9274-ed50a8459e87_9ecea218-f520-4df7-a9b6-0e81d8af44a5.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 15000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081590",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081591",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.5",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "imageBadges": [
+                                    {
+                                        "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                ],
+                                "parentId": "70305596",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "148673642",
+                                "name": "Dal Makhani with Paratha",
+                                "category": "Meals",
+                                "description": "Serves 1 | [Energy - 560 kcal | Protein - 18gm]A classic North Indian dish featuring creamy black lentils cooked with spices and soft whole wheat parathas.Allergen Information- Contains Gluten & Dairy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/4e6652ff-6074-41c9-9023-7b814501f88a_bb7a06b0-d985-4ee2-ac00-34c455819c07.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24900,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081600",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081601",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "imageBadges": [
+                                    {
+                                        "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                ],
+                                "parentId": "70260229",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "147871391",
+                                "name": "Dal Tadka with Paratha",
+                                "category": "Meals",
+                                "description": "Serves 1 | Creamy dal curry tempered with Indian spices and desi curry leaves tadka, served with wheat parathas.  Allergen Information- Contains Gluten",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/b11c2668-89a8-49dd-93ad-261b90f11c8a_e36fccb7-3d83-4eb8-b58c-a4ae1d8b67a0.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 22900,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081602",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081603",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.3",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "70570238",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "148673581",
+                                "name": "Desi Dal Tadka Chawal",
+                                "category": "Meals",
+                                "description": "Serves 1 | Lentil gravy mixed with oil fried spices and herbs served with steam rice. A hearty meal for 1.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/17a86c8f-92e5-4598-a43c-c7e28b69b0c3_6f84b053-5b23-4a7b-8bd9-4ee7c97fc522.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081582",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081583",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.0",
+                                        "ratingCount": "23 ratings",
+                                        "ratingCountV2": "23"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "86743770",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "66234691",
+                                "name": "Black Chana with Steamed Rice",
+                                "category": "Meals",
+                                "description": "Serves 1 | Protein packed black chana cooked in roasted coconut spiced tomato gravy and finished up with our in house masala. A heartfelt meal served along with steamed rice.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/afb0b3c9-779f-4c31-8686-b5b5f10f52e0_6f0dc889-bc9b-4cf2-8e6c-22c015ca0594.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 13000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "261236913",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "261236915",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "4 ratings",
+                                        "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "70305595",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "189051624",
+                                "name": "Black Chana with Paratha",
+                                "category": "Meals",
+                                "description": "Serves 1 | Protein packed black chana, cooked in a roasted coconut and curry leaf gravy, finished with house special garam masala and pepper. Served with three parathas. A hearty meal for 1.Allergen Info - Contains Gluten",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/044819ac-8ae2-467d-948e-2953e7b05eb4_6b493edb-021c-480d-b090-36bfcc500245.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 23900,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "261236942",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "261236943",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "66753683",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "147871392",
+                                "name": "Rajma with Paratha",
+                                "category": "Meals",
+                                "description": "Serves 1 | A classic North Indian meal pairing of flavorful kidney bean curry (rajma) served with hot and flaky wheat parathas, creating a hearty and comforting dining experience.Allergen Information- Contains Gluten",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/a2e0922a-bb53-4800-8aea-851f94fcf799_2c3bccb1-4c65-4b56-a88b-03513d06b92b.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24900,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081585",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081586",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.7",
+                                        "ratingCount": "4 ratings",
+                                        "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "80012607",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "147871393",
+                                "name": "Chole with Paratha",
+                                "category": "Meals",
+                                "description": "Serves 1 | A popular Punjabi dish consisting of spicy and tangy chickpea curry served with delicate wheat parathas.Allergen Information- Contains Gluten & Dairy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/6a1ae564-394e-41ee-a054-1bcf29de3912_47bc660b-e9ea-43dd-902a-465903ffb5bd.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24900,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "191081587",
+                                        "groupName": "Choose your Sides ",
+                                        "choices": [
+                                            {
+                                                "id": "124331670",
+                                                "name": "Boondi Raita",
+                                                "price": 3700,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331666",
+                                                "name": "Carrot Cucumber Salad - 60gm",
+                                                "price": 2900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606982",
+                                                "name": "Chocolate Pop Hustl Energy Bar",
+                                                "price": 5000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331668",
+                                                "name": "Moderate-Carb Cutter (1 -Tablet)",
+                                                "price": 3300,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606983",
+                                                "name": "Fruit Pop Hustl Energy Bar",
+                                                "price": 4200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331669",
+                                                "name": "Papad Churi",
+                                                "price": 1900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134606984",
+                                                "name": "Moderate Happy Gut Probiotic Powder (1 Sachet)",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081588",
+                                        "groupName": "Choose Your Beverages",
+                                        "choices": [
+                                            {
+                                                "id": "124331659",
+                                                "name": "Lemonade (200ml)",
+                                                "price": 7100,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331665",
+                                                "name": "Classic Masala Chaas",
+                                                "price": 9900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331656",
+                                                "name": "Sugarcane (200ml)",
+                                                "price": 7900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331661",
+                                                "name": "Tender Coconut Water",
+                                                "price": 5900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "138449874",
+                                                "name": "Protein Milk Shake -Vanilla (25g)",
+                                                "price": 12300,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331662",
+                                                "name": "Aam ka Panna (200ml)",
+                                                "price": 7100,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "134835667",
+                                                "name": "Kesar Badam Milk",
+                                                "price": 11900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 6,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "191081589",
+                                        "groupName": "Choose your Desserts",
+                                        "choices": [
+                                            {
+                                                "id": "124331660",
+                                                "name": "Chocolate Nutty Dates Pudding",
+                                                "price": 10900,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331658",
+                                                "name": "Badam Kheer",
+                                                "price": 9500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331663",
+                                                "name": "Gulab Jamun",
+                                                "price": 8900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331664",
+                                                "name": "Seviya Kheer",
+                                                "price": 9900,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "124331655",
+                                                "name": "Moong Dal Halwa",
+                                                "price": 10200,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 3,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "itemPriceStrikeOff": true,
+                                "parentId": "70570237",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "offer",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    }
+                ],
+                "subtitleSuffix": {},
+                "image": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/d65a8713-cd1f-4e57-b940-75ab2cf6e983_fe81ca5c-263c-4b7c-b534-c6f97e0e9c02.jpg",
+                "categoryId": "61078303"
+            }
+        }
+    }
+]
