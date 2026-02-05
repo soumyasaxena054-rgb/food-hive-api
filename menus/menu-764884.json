@@ -169,18 +169,708 @@
     {
         "card": {
             "card": {
-                "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuCarousel",
-                "title": "Top Picks",
-                "carousel": [
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                "title": "Recommended",
+                "itemCards": [
                     {
-                        "type": "TopCarousel",
-                        "subtype": "image",
-                        "bannerId": "7606849",
-                        "creativeId": "TopPicks2024/126238000F.png",
-                        "title": "Almond Croissant",
-                        "description": " ",
-                        "fontColor": "#FFFFFF",
-                        "dish": {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "186790427",
+                                "name": "Spicy Chicken Roll",
+                                "category": "Croissants & More",
+                                "description": "110 gram | Perfectly flaky puff pastry filled with minced chicken seasoned for a spicy kick.  [Energy: 275.6 kcal, Allergen: egg,gluten,milk, Protein: 9.2g, Carbohydrates: 21.8g, Fat: 17.4g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/14/fb41ac62-fa69-4c74-b4a4-42b575858d6c_5063a6ff-48f8-4d4d-a4da-b297b873083c.jpg",
+                                "inStock": 1,
+                                "price": 26500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "110 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "117703133",
+                                "menuFilterIds": [
+                                    "NONVEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "186790429",
+                                "name": "Mushroom Spinach Roll",
+                                "category": "Croissants & More",
+                                "description": "120 gram | Sautéed mushrooms, tender spinach, and feta wrapped in perfectly flaky puff pastry.  [Energy: 331.6 kcal, Allergen: milk,gluten, Protein: 7.8g, Carbohydrates: 27.9g, Fat: 21.7g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/14/4d547dba-d16d-4b18-87e1-e1e933163e86_40fa4012-4cd0-44d0-9174-14af6642ff0e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 25000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "120 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "113563730",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237969",
+                                "name": "Toasted Sesame Bagel",
+                                "category": "Croissants & More",
+                                "description": "132 gram | A round chewy bread made from wheat flour topped with toasted sesame seeds  storage instructions - store at room temperature (less than 25 degrees)  key allergens - gluten, seeds [Energy: 300 kcal, Allergen: milk,gluten, Protein: 9.17g, Carbohydrates: 58.49g, Fiber: 0g, Fat: 2.76g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/465d697e-3e4d-42c0-a133-61f6c67eff44_c28e80fd-d763-47f3-9d6e-61470d5f1815.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "132 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "14972059",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237975",
+                                "name": "Traditional Butter Croissant",
+                                "category": "Croissants & More",
+                                "description": "98 gram | A buttery, flaky, viennoiserie pastry made with layered yeast leavened dough  storage instructions - store at room temperature (less than 25 degrees)  key allergens - dairy, gluten [Energy: 358.9 kcal, Allergen: milk,gluten, Protein: 4.9g, Carbohydrates: 36.7g, Fiber: 0g, Fat: 21.66g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/d9936852-5df9-4144-b6f0-6db9e3a69a27_5db2efdf-5af3-43f6-9c74-c3755a024117.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 21000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "194649817",
+                                        "groupName": "Best Paired With",
+                                        "choices": [
+                                            {
+                                                "id": "117010497",
+                                                "name": "Apple Mint Iced Tea",
+                                                "price": 21000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "98 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.6",
+                                        "ratingCount": "14 ratings",
+                                        "ratingCountV2": "14"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972060",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237984",
+                                "name": "Morning Bun",
+                                "category": "Croissants & More",
+                                "description": "111 gram | Croissant made with fresh ground cinnamon, orange zest and brown sugar  storage instructions - store at room temperature (less than 25 degrees)  key allergens - dairy, gluten [Energy: 418.36 kcal, Allergen: milk,gluten, Protein: 6.6g, Carbohydrates: 45.59g, Fiber: 0g, Fat: 23.24g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/c37a407f-6c8e-4fb6-b3b2-035294591c48_f7b95a09-d6c9-4c6b-bf55-29b204817cdc.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "111 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.9",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972036",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237985",
+                                "name": "Pain Au Chocolat",
+                                "category": "Croissants & More",
+                                "description": "120 gram | Croissant made in a classic french style with chocolate batons inside  storage instructions - store at room temperature (less than 25 degrees)  key allergens - dairy, gluten [Energy: 489.2 kcal, Allergen: milk,gluten,soy, Protein: 6.5g, Carbohydrates: 57.84g, Fiber: 0g, Fat: 19.8g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/78b45ea6-b886-44f1-82f2-9310d619659b_ac64bfe7-8cc7-443a-8d27-aca90b86a4ac.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 26500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "120 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.1",
+                                        "ratingCount": "4 ratings",
+                                        "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "46030986",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237994",
+                                "name": "Mushroom Cream Cheese Croisstata",
+                                "category": "Croissants & More",
+                                "description": "120 gram | Savoury croissant with mushroom, thyme and cream cheese [Energy: 367.56 kcal, Allergen: milk,gluten, Protein: 5.52g, Carbohydrates: 47.76g, Fiber: 0g, Fat: 21.24g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/7adeff74-245f-48a4-b867-62128290b392_e9ba1a11-8942-4aba-9c50-16fc6e64040f.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 26500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "120 gram"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972040",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237995",
+                                "name": "Roasted Tomatoes, Mozzarella, Homemade Pesto Sauce Croisstata",
+                                "category": "Croissants & More",
+                                "description": "90 gram | Croisstata served with cherry tomatoes and our in house pesto sauce storage instructions refrigerate key allergens gluten, nuts [Energy: 403 kcal, Allergen: gluten,milk,nuts, Protein: 7.7g, Carbohydrates: 36g, Fat: 25.7g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/17/4bc346e4-3567-4b11-b825-66c5ce252768_0bcfff91-c888-4fa7-b1c5-fe2a23256e90.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 25000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "90 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.6",
+                                        "ratingCount": "14 ratings",
+                                        "ratingCountV2": "14"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972050",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126238001",
+                                "name": "Barbecue Chicken Croissant",
+                                "category": "Croissants & More",
+                                "description": "130 gram | Pulled chicken in barbecue sauce and cheese  storage instructions - refrigerate  key allergens - gluten, dairy [Energy: 433 kcal, Allergen: milk,gluten, Protein: 12.48g, Carbohydrates: 36.53g, Fiber: 0g, Fat: 26.52g]",
+                                "imageId": "2c92dce94c674e650fceeac3d16083fa",
+                                "inStock": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "130 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "3 ratings",
+                                        "ratingCountV2": "3"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    },
+                                    {
+                                        "imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+                                    }
+                                ],
+                                "parentId": "38280212",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "NONVEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126238020",
+                                "name": "Smoked Chicken Ham & Cheese Croissant",
+                                "category": "Croissants & More",
+                                "description": "120 gram | Savoury croissant with smoked chicken ham and cheese filling [Energy: 422.4 kcal, Allergen: milk,gluten, Protein: 10.7g, Carbohydrates: 38.1g, Fiber: 0g, Fat: 25.4g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/cf3296ad-ef97-4b74-b8bb-a757265c3670_3b39c697-9047-4904-b96b-8601f8dfe04e.jpg",
+                                "inStock": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "120 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "2 ratings",
+                                        "ratingCountV2": "2"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "46030992",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "NONVEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126238006",
+                                "name": "Chocolate Hazelnut Croissant",
+                                "category": "Croissants & More",
+                                "description": "151 gram | Croissant with hazelnut pastry cream filling topped with chocolate and chopped hazelnuts. Storage instructions - refrigerate  key allergens - dairy, gluten, nuts [Energy: 544.4 kcal, Allergen: milk,gluten,egg,nuts,soy, Protein: 8.02g, Carbohydrates: 57.29g, Fiber: 0g, Fat: 31.18g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/17fa0641-4fc0-4661-8f6c-7ba7cc885f13_3e785323-2c68-48d4-a56d-7c7a171221a6.jpg",
+                                "inStock": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "151 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.9",
+                                        "ratingCount": "6 ratings",
+                                        "ratingCountV2": "6"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972014",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "NONVEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126238005",
+                                "name": "Chocolate & Salted Caramel Croissant",
+                                "category": "Croissants & More",
+                                "description": "125 gram | Nutty chocolate frangipane filling with the perfect balance of sea salt caramel. Storage instructions - store at room temperature (less than 25 degrees)  key allergens - dairy, gluten, nuts [Energy: 489 kcal, Allergen: milk,gluten,nuts,soy, Protein: 6.1g, Carbohydrates: 51.5g, Fat: 28.875g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/e5b5c843-260b-486f-a1bc-8f2cedf66e0f_1cd2926f-c035-4389-afe7-40c491a71047.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "125 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.4",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972015",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126238017",
+                                "name": "Pistachio & Raspberry Croissant",
+                                "category": "Croissants & More",
+                                "description": "162 gram | Twice baked croissant with pistachio frangipane and in-house raspberry jam.  [Energy: 589.96 kcal, Allergen: milk,gluten,nuts, Protein: 9.23g, Carbohydrates: 69.19g, Fiber: 0g, Fat: 30.88g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/e94d6232-a6b1-4e8b-93ca-ecfb6541a36e_b356b3a9-781c-45a5-baa2-d321a0eab4a9.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 26500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "162 gram"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.6",
+                                        "ratingCount": "19 ratings",
+                                        "ratingCountV2": "19"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "46030988",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
                             "info": {
                                 "id": "126238000",
                                 "name": "Almond Croissant",
@@ -197,194 +887,167 @@
                                     "portionSize": "125 gram"
                                 },
                                 "ribbon": {},
+                                "type": "ITEM",
                                 "itemBadge": {},
                                 "badgesV2": {},
-                                "parentId": "14972000"
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.5",
+                                        "ratingCount": "7 ratings",
+                                        "ratingCountV2": "7"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "14972000",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
                             "analytics": {},
-                            "restaurant": {
-                                "info": {
-                                    "dishStyle": {
-                                        "socialMarkerStyle": [
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
-                                                "title": "Protein Rich",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "brand_proteinator_primary"
-                                            },
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
-                                                "title": "Bestseller",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "color_swiggy_one"
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
                             "hideRestaurantDetails": true
                         }
                     },
                     {
-                        "type": "TopCarousel",
-                        "subtype": "image",
-                        "bannerId": "7605746",
-                        "creativeId": "TopPicks2024/186790431F.png",
-                        "title": "Apple Crumble Cake",
-                        "description": " ",
-                        "fontColor": "#FFFFFF",
-                        "dish": {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
                             "info": {
-                                "id": "186790431",
-                                "name": "Apple Crumble Cake",
-                                "category": "Sweet Bakes",
-                                "description": "103 gram | Tender cinnamon-spiced apples baked into a soft, buttery cake with a golden, crumbly top.  [Energy: 331.8 kcal, Allergen: gluten,milk, Protein: 5.5g, Carbohydrates: 51.2g, Fat: 14g]",
-                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/14/e1da64a9-c302-4704-91a0-53d343293d5d_8964bd12-6f25-425d-8d92-e3d6e439ba1b.jpg",
+                                "id": "126238049",
+                                "name": "Korean Bun",
+                                "category": "Croissants & More",
+                                "description": "160 gram | Soft & creamy bun, full of garlic flavoured cream and dipped in a savoury-sweet garlic butter sauce.  [Energy: 505 kcal, Allergen: milk,gluten, Protein: 9.38g, Carbohydrates: 47.66g, Fiber: 0g, Fat: 30.77g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/26/d4368920-3193-481a-b068-f444485798e8_cd4fce90-f633-4dd8-8463-0859cf053450.jpg",
                                 "inStock": 1,
                                 "isVeg": 1,
-                                "price": 14500,
+                                "price": 33500,
                                 "variants": {},
                                 "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "177864851",
+                                        "groupName": "Best Paired With",
+                                        "choices": [
+                                            {
+                                                "id": "117010497",
+                                                "name": "Apple Mint Iced Tea",
+                                                "price": 21000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
                                 "itemAttribute": {
                                     "vegClassifier": "VEG",
-                                    "portionSize": "103 gram"
+                                    "portionSize": "160 gram"
                                 },
                                 "ribbon": {},
+                                "type": "ITEM",
                                 "itemBadge": {},
                                 "badgesV2": {},
-                                "parentId": "113563726"
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.7",
+                                        "ratingCount": "17 ratings",
+                                        "ratingCountV2": "17"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "56202326",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
                             "analytics": {},
-                            "restaurant": {
-                                "info": {
-                                    "dishStyle": {
-                                        "socialMarkerStyle": [
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
-                                                "title": "Protein Rich",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "brand_proteinator_primary"
-                                            },
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
-                                                "title": "Bestseller",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "color_swiggy_one"
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
                             "hideRestaurantDetails": true
                         }
                     },
                     {
-                        "type": "TopCarousel",
-                        "subtype": "image",
-                        "bannerId": "7606652",
-                        "creativeId": "TopPicks2024/126238052F.png",
-                        "title": "Jalapeno & Cheddar Cheese Sourdough (420g)",
-                        "description": " ",
-                        "fontColor": "#FFFFFF",
-                        "dish": {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
                             "info": {
-                                "id": "126238052",
-                                "name": "Jalapeno & Cheddar Cheese Sourdough (420g)",
-                                "category": "Freshly Baked Breads",
-                                "description": "420 gram | Now in a new size! our jalapeno & cheddar cheese sourdough is naturally leavened, without commercial yeast, infused with jalapenos & cheddar, offering a savory, salty, and spicy flavor. Enjoy it with soups, as a grilled cheese base, or as a filling snack. Storage: keep in a cool, dry & hygienic place, away from sunlight. Once opened, refrigerate in an airtight container. Key allergens: dairy, gluten [Energy: 878.64 kcal, Allergen: gluten,milk, Protein: 31.92g, Carbohydrates: 157.5g, Fiber: 31.71g, Fat: 11.34g]",
-                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/4b01e876-cdc8-4f52-922e-e27453a6682c_88b64afd-aaaa-41b5-9593-feb6d7651394.jpg",
+                                "id": "126238003",
+                                "name": "Blueberry Cheesecake Croissant",
+                                "category": "Croissants & More",
+                                "description": "175 gram | A flaky croissant filled with blueberry jam and a smooth cheesecake filling, topped with a buttery crumble and baked to a golden-brown finish. Storage instructions - store at room temperature (less than 25 degrees)  key allergens - gluten,dairy,eggs [Energy: 591.3 kcal, Allergen: gluten,milk,egg, Protein: 9.4g, Carbohydrates: 63.5g, Fiber: 0g, Fat: 23.2g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/10/c3090351-5620-48cd-a0c1-2e2d5c32e103_0619f25d-ccbc-4a24-9661-559d690c5086.jpg",
                                 "inStock": 1,
-                                "isVeg": 1,
-                                "price": 29500,
+                                "price": 34000,
                                 "variants": {},
                                 "variantsV2": {},
                                 "itemAttribute": {
-                                    "vegClassifier": "VEG",
-                                    "portionSize": "420 gram"
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "175 gram"
                                 },
                                 "ribbon": {},
+                                "type": "ITEM",
                                 "itemBadge": {},
                                 "badgesV2": {},
-                                "parentId": "101969574"
-                            },
-                            "analytics": {},
-                            "restaurant": {
-                                "info": {
-                                    "dishStyle": {
-                                        "socialMarkerStyle": [
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
-                                                "title": "Protein Rich",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "brand_proteinator_primary"
-                                            },
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
-                                                "title": "Bestseller",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "color_swiggy_one"
-                                            }
-                                        ]
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.9",
+                                        "ratingCount": "5 ratings",
+                                        "ratingCountV2": "5"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
                                     }
-                                }
-                            },
-                            "hideRestaurantDetails": true
-                        }
-                    },
-                    {
-                        "type": "TopCarousel",
-                        "subtype": "image",
-                        "bannerId": "7606830",
-                        "creativeId": "TopPicks2024/126238039F.png",
-                        "title": "Olive And Rosemary Sourdough (420g)",
-                        "description": " ",
-                        "fontColor": "#FFFFFF",
-                        "dish": {
-                            "info": {
-                                "id": "126238039",
-                                "name": "Olive And Rosemary Sourdough (420g)",
-                                "category": "Freshly Baked Breads",
-                                "description": "420 gram | Now in a new size! our olive & rosemary sourdough is an artisan bread infused with green olives and dried rosemary, naturally leavened  without commercial yeast. Storage instructions: store in a cool, dry and hygienic place, away from direct sunlight. Once opened, store in an airtight container under refrigerated conditions. Key allergens: gluten [Energy: 993.636 kcal, Allergen: gluten, Protein: 37.674g, Carbohydrates: 195.426g, Fiber: 30.618g, Fat: 6.804g]",
-                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/43053f07-df5e-4ceb-bd44-72b7646610db_3e93e4cc-6fc0-46bc-b730-b9fbc2cc4c65.jpg",
-                                "inStock": 1,
-                                "isVeg": 1,
-                                "price": 22000,
-                                "variants": {},
-                                "variantsV2": {},
-                                "itemAttribute": {
-                                    "vegClassifier": "VEG",
-                                    "portionSize": "420 gram"
                                 },
-                                "ribbon": {},
-                                "itemBadge": {},
-                                "badgesV2": {},
-                                "parentId": "101969577"
+                                "parentId": "14972010",
+                                "menuFilterIds": [
+                                    "NONVEG",
+                                    "toprated"
+                                ]
                             },
                             "analytics": {},
-                            "restaurant": {
-                                "info": {
-                                    "dishStyle": {
-                                        "socialMarkerStyle": [
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
-                                                "title": "Protein Rich",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "brand_proteinator_primary"
-                                            },
-                                            {
-                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
-                                                "title": "Bestseller",
-                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
-                                                "textColor": "color_swiggy_one"
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
                             "hideRestaurantDetails": true
                         }
                     }
-                ]
+                ],
+                "type": "CATEGORY_TYPE_RECOMMENDED",
+                "subtitleSuffix": {},
+                "categoryId": "-1"
             }
         }
     }
