@@ -1,0 +1,391 @@
+[
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                "info": {
+                    "id": "764884",
+                    "name": "Suchali's Artisan Bakehouse",
+                    "city": "Mumbai",
+                    "slugs": {
+                        "restaurant": "suchali's-artisan-bakehouse-cbd-belapur-cbd-belapur",
+                        "city": "mumbai"
+                    },
+                    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/5/903f99c7-f88f-447f-aca5-010db02450be_764884.JPG",
+                    "locality": "Sector 15",
+                    "areaName": "CBD Belapur",
+                    "costForTwo": "60000",
+                    "costForTwoMessage": "₹600 for two",
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.6,
+                    "feeDetails": {
+                        "restaurantId": "764884",
+                        "fees": [
+                            {}
+                        ]
+                    },
+                    "parentId": "196351",
+                    "avgRatingString": "4.6",
+                    "totalRatingsString": "186 ratings",
+                    "sla": {
+                        "restaurantId": "764884",
+                        "deliveryTime": 28,
+                        "minDeliveryTime": 25,
+                        "maxDeliveryTime": 30,
+                        "lastMileTravel": 3.5,
+                        "serviceability": "SERVICEABLE",
+                        "stressFactor": 1,
+                        "rainMode": "RAIN_MODE_NONE",
+                        "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                        "zoneId": 310,
+                        "slaString": "25-30 MINS",
+                        "lastMileTravelString": "3.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2026-02-05 23:00:00",
+                        "visibility": true,
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                        "header": "Freedel",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "7.5% off upto ₹100| Above ₹399",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "visible": true
+                    },
+                    "badges": {},
+                    "slugString": "suchali's-artisan-bakehouse-cbd-belapur-cbd-belapur",
+                    "multiOutlet": true,
+                    "isOpen": true,
+                    "labels": [
+                        {
+                            "title": "Timings",
+                            "message": "null"
+                        },
+                        {
+                            "title": "Address",
+                            "message": "Shop No - 6, 7, 8,Progressive SeaLounge, Sector 15,CBD Belapur, NaviMumbai,Maharashtra- 400614"
+                        },
+                        {
+                            "title": "Cuisines",
+                            "message": "Bakery,Desserts"
+                        }
+                    ],
+                    "logo": "v1660803995/Gourmet_Mumbai/Logos_18.8.22/Suchali_s_Artisan_Bakehouse.png",
+                    "totalRatings": 186,
+                    "aggregatedDiscountInfoV2": {
+                        "header": "Freedel",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "7.5% off upto ₹100| Above ₹399",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ]
+                    },
+                    "type": "F",
+                    "headerBanner": {
+                        "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/764884"
+                    },
+                    "generalPurposeInfoListV2": [
+                        {
+                            "cta": {
+                                "info": {
+                                    "recordings": {}
+                                },
+                                "linkCta": {}
+                            }
+                        }
+                    ],
+                    "ratingSlab": "RATING_SLAB_5",
+                    "restaurantCategory": "RESTAURANT_CATEGORY_GOURMET",
+                    "backgroundImage": "v1660805047/Gourmet_Mumbai/Menu%20headers_18.8.22/Suchali_s_Artisan_Bakehouse-2.png",
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                    },
+                    "hasBestsellerItems": true,
+                    "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                    },
+                    "latLong": "19.006535,73.032786",
+                    "backgroundImageOverlayInfo": {},
+                    "featuredSectionInfo": {}
+                },
+                "analytics": {}
+            },
+            "relevance": {
+                "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+            }
+        }
+    },
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuCarousel",
+                "title": "Top Picks",
+                "carousel": [
+                    {
+                        "type": "TopCarousel",
+                        "subtype": "image",
+                        "bannerId": "7606849",
+                        "creativeId": "TopPicks2024/126238000F.png",
+                        "title": "Almond Croissant",
+                        "description": " ",
+                        "fontColor": "#FFFFFF",
+                        "dish": {
+                            "info": {
+                                "id": "126238000",
+                                "name": "Almond Croissant",
+                                "category": "Croissants & More",
+                                "description": "125 gram | A rich, twice-baked croissant with our signature almond frangipane filling, topped with sliced almonds. Storage instructions - store at room temperature (less than 25 degrees)  key allergens - dairy, gluten, nuts [Energy: 485 kcal, Allergen: gluten,milk,nuts, Protein: 7.5g, Carbohydrates: 47.6g, Fiber: 0g, Fat: 30.4g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/09921f6e-b98d-4872-b78e-e967cedf95b8_8dde994a-7535-484a-b41b-10c20d1a95f1.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "125 gram"
+                                },
+                                "ribbon": {},
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "parentId": "14972000"
+                            },
+                            "analytics": {},
+                            "restaurant": {
+                                "info": {
+                                    "dishStyle": {
+                                        "socialMarkerStyle": [
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                                                "title": "Protein Rich",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "brand_proteinator_primary"
+                                            },
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                                                "title": "Bestseller",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "color_swiggy_one"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "type": "TopCarousel",
+                        "subtype": "image",
+                        "bannerId": "7605746",
+                        "creativeId": "TopPicks2024/186790431F.png",
+                        "title": "Apple Crumble Cake",
+                        "description": " ",
+                        "fontColor": "#FFFFFF",
+                        "dish": {
+                            "info": {
+                                "id": "186790431",
+                                "name": "Apple Crumble Cake",
+                                "category": "Sweet Bakes",
+                                "description": "103 gram | Tender cinnamon-spiced apples baked into a soft, buttery cake with a golden, crumbly top.  [Energy: 331.8 kcal, Allergen: gluten,milk, Protein: 5.5g, Carbohydrates: 51.2g, Fat: 14g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/14/e1da64a9-c302-4704-91a0-53d343293d5d_8964bd12-6f25-425d-8d92-e3d6e439ba1b.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 14500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "103 gram"
+                                },
+                                "ribbon": {},
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "parentId": "113563726"
+                            },
+                            "analytics": {},
+                            "restaurant": {
+                                "info": {
+                                    "dishStyle": {
+                                        "socialMarkerStyle": [
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                                                "title": "Protein Rich",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "brand_proteinator_primary"
+                                            },
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                                                "title": "Bestseller",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "color_swiggy_one"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "type": "TopCarousel",
+                        "subtype": "image",
+                        "bannerId": "7606652",
+                        "creativeId": "TopPicks2024/126238052F.png",
+                        "title": "Jalapeno & Cheddar Cheese Sourdough (420g)",
+                        "description": " ",
+                        "fontColor": "#FFFFFF",
+                        "dish": {
+                            "info": {
+                                "id": "126238052",
+                                "name": "Jalapeno & Cheddar Cheese Sourdough (420g)",
+                                "category": "Freshly Baked Breads",
+                                "description": "420 gram | Now in a new size! our jalapeno & cheddar cheese sourdough is naturally leavened, without commercial yeast, infused with jalapenos & cheddar, offering a savory, salty, and spicy flavor. Enjoy it with soups, as a grilled cheese base, or as a filling snack. Storage: keep in a cool, dry & hygienic place, away from sunlight. Once opened, refrigerate in an airtight container. Key allergens: dairy, gluten [Energy: 878.64 kcal, Allergen: gluten,milk, Protein: 31.92g, Carbohydrates: 157.5g, Fiber: 31.71g, Fat: 11.34g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/4b01e876-cdc8-4f52-922e-e27453a6682c_88b64afd-aaaa-41b5-9593-feb6d7651394.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 29500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "420 gram"
+                                },
+                                "ribbon": {},
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "parentId": "101969574"
+                            },
+                            "analytics": {},
+                            "restaurant": {
+                                "info": {
+                                    "dishStyle": {
+                                        "socialMarkerStyle": [
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                                                "title": "Protein Rich",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "brand_proteinator_primary"
+                                            },
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                                                "title": "Bestseller",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "color_swiggy_one"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "type": "TopCarousel",
+                        "subtype": "image",
+                        "bannerId": "7606830",
+                        "creativeId": "TopPicks2024/126238039F.png",
+                        "title": "Olive And Rosemary Sourdough (420g)",
+                        "description": " ",
+                        "fontColor": "#FFFFFF",
+                        "dish": {
+                            "info": {
+                                "id": "126238039",
+                                "name": "Olive And Rosemary Sourdough (420g)",
+                                "category": "Freshly Baked Breads",
+                                "description": "420 gram | Now in a new size! our olive & rosemary sourdough is an artisan bread infused with green olives and dried rosemary, naturally leavened  without commercial yeast. Storage instructions: store in a cool, dry and hygienic place, away from direct sunlight. Once opened, store in an airtight container under refrigerated conditions. Key allergens: gluten [Energy: 993.636 kcal, Allergen: gluten, Protein: 37.674g, Carbohydrates: 195.426g, Fiber: 30.618g, Fat: 6.804g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/43053f07-df5e-4ceb-bd44-72b7646610db_3e93e4cc-6fc0-46bc-b730-b9fbc2cc4c65.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "420 gram"
+                                },
+                                "ribbon": {},
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "parentId": "101969577"
+                            },
+                            "analytics": {},
+                            "restaurant": {
+                                "info": {
+                                    "dishStyle": {
+                                        "socialMarkerStyle": [
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                                                "title": "Protein Rich",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "brand_proteinator_primary"
+                                            },
+                                            {
+                                                "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                                                "title": "Bestseller",
+                                                "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                                "textColor": "color_swiggy_one"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "hideRestaurantDetails": true
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
