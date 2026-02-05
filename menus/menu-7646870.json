@@ -4,7 +4,7 @@
             "card": {
                 "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
                 "info": {
-                    "id": "764687",
+                    "id": "7646870",
                     "name": "Blue Tokai Coffee Roasterss",
                     "city": "Mumbai",
                     "slugs": {
