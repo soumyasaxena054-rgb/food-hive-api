@@ -170,7 +170,7 @@
         "card": {
             "card": {
                 "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
-                "title": "Recommended",
+                "title": "Protein Plus and Coke Zero Meals",
                 "itemCards": [
                     {
                         "card": {
@@ -1045,9 +1045,9 @@
                         }
                     }
                 ],
-                "type": "CATEGORY_TYPE_RECOMMENDED",
                 "subtitleSuffix": {},
-                "categoryId": "-1"
+                "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/aeb8b9ae-9ea6-401d-a8f5-4dd1f19498ee_164f9d03-8e51-4a87-88bf-984cfd80d452.png",
+                "categoryId": "53129452"
             }
         }
     }
