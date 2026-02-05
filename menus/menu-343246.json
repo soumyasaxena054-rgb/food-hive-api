@@ -1,0 +1,3147 @@
+[
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                "info": {
+                    "id": "343246",
+                    "name": "Starbucks Coffee",
+                    "city": "Mumbai",
+                    "slugs": {
+                        "restaurant": "starbucks-coffee-sector-15-cbd-belapur",
+                        "city": "mumbai"
+                    },
+                    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/22/fd536a2b-fb3e-4e67-a407-9414ef586ac3_343246.JPG",
+                    "locality": "CBD-Belapur",
+                    "areaName": "CBD Belapur",
+                    "costForTwo": "40000",
+                    "costForTwoMessage": "₹400 for two",
+                    "cuisines": [
+                        "Beverages",
+                        "Cafe"
+                    ],
+                    "avgRating": 4.5,
+                    "feeDetails": {
+                        "restaurantId": "343246",
+                        "fees": [
+                            {}
+                        ]
+                    },
+                    "parentId": "195515",
+                    "avgRatingString": "4.5",
+                    "totalRatingsString": "1.7K+ ratings",
+                    "sla": {
+                        "restaurantId": "343246",
+                        "deliveryTime": 24,
+                        "minDeliveryTime": 20,
+                        "maxDeliveryTime": 25,
+                        "lastMileTravel": 3.6,
+                        "serviceability": "SERVICEABLE",
+                        "stressFactor": 1,
+                        "rainMode": "RAIN_MODE_NONE",
+                        "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                        "zoneId": 310,
+                        "slaString": "20-25 MINS",
+                        "lastMileTravelString": "3.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2026-02-05 23:59:00",
+                        "visibility": true,
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                        "header": "Flat ₹100 off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Flat ₹100 off on orders above ₹199",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "Flat ₹150 off on orders above ₹299",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹100 off on orders above ₹199 | Use code FLAT100",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "Flat ₹150 off on orders above ₹299 | Use code FLAT150",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "visible": true
+                    },
+                    "badges": {},
+                    "slugString": "starbucks-coffee-sector-15-cbd-belapur",
+                    "multiOutlet": true,
+                    "isOpen": true,
+                    "labels": [
+                        {
+                            "title": "Timings",
+                            "message": "null"
+                        },
+                        {
+                            "title": "Address",
+                            "message": "Shop No. 4, Ground Floor, Palm Beach Road, Sector15, CBD Belapur, Mumbai, Maharashtra"
+                        },
+                        {
+                            "title": "Cuisines",
+                            "message": "Beverages,Cafe"
+                        }
+                    ],
+                    "totalRatings": 1700,
+                    "aggregatedDiscountInfoV2": {
+                        "header": "Flat ₹100 off",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Flat ₹100 off on orders above ₹199",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "Flat ₹150 off on orders above ₹299",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Flat ₹100 off on orders above ₹199 | Use code FLAT100",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "Flat ₹150 off on orders above ₹299 | Use code FLAT150",
+                                "discountType": "Flat",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "couponDetailsCta": "View coupon details"
+                    },
+                    "type": "F",
+                    "headerBanner": {
+                        "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/343246"
+                    },
+                    "generalPurposeInfoListV2": [
+                        {
+                            "cta": {
+                                "info": {
+                                    "recordings": {}
+                                },
+                                "linkCta": {}
+                            }
+                        }
+                    ],
+                    "ratingSlab": "RATING_SLAB_5",
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                    },
+                    "hasBestsellerItems": true,
+                    "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                    },
+                    "latLong": "19.01147,73.0349",
+                    "backgroundImageOverlayInfo": {},
+                    "featuredSectionInfo": {}
+                },
+                "analytics": {}
+            },
+            "relevance": {
+                "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+            }
+        }
+    },
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                "title": "Recommended",
+                "itemCards": [
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "132364762",
+                                "name": "Vienna Creamy Latte",
+                                "category": "Valentine's Special",
+                                "description": "Savor the Vienna Creamy Latte: a silky blend of espresso, steamed milk, mocha, and Vanilla Mascarpone sauce, topped with luscious mascarpone flavored foam and a sprinkle of burnt caramel powder. Pure indulgence in every sip.\nServing size (ml)/Calories (kcal) - Short (237ml) - 330 kcal, Tall (354ml) - 446 kcal, Grande (473ml) - 545 kcal, Venti (591ml) - 675 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/1/ce898f8d-fcff-4d8d-b604-f2246c106042_88dc409f-9934-40b6-834e-7c6972340b33.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 39500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "71447326",
+                                            "name": "Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Hot Short",
+                                                    "default": 1,
+                                                    "id": "211928807",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Hot Tall",
+                                                    "price": 5000,
+                                                    "id": "211928808",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Hot Grande",
+                                                    "price": 10000,
+                                                    "id": "211928809",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Hot Venti",
+                                                    "price": 15000,
+                                                    "id": "211928810",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "71447327",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "211928811",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "272379073",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379074",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "114847427",
+                                                "name": "Classic Syrup (sweet)",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379075",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379076",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379077",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "77146432",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "132364763",
+                                "name": "Iced Vienna Creamy Latte",
+                                "category": "Valentine's Special",
+                                "description": "Chill with the Iced Vienna Creamy Latte: espresso, milk, mocha, and Vanilla Mascarpone sauce over ice, crowned with velvety mascarpone flavored foam and burnt caramel powder.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 367 kcal, Grande (473ml) - 509 kcal, Venti (591ml) - 525 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/1/ebe83f4e-5216-42f2-849e-c3621cf2dc1c_191fa1ca-2a29-41f8-9db4-2d5b5a3bb86e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 44500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "71447328",
+                                            "name": "Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Iced Tall",
+                                                    "default": 1,
+                                                    "id": "211928812",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Iced Grande",
+                                                    "price": 5000,
+                                                    "id": "211928814",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Iced Venti",
+                                                    "price": 10000,
+                                                    "id": "211928815",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "71447330",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "211928817",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "272379078",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379079",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "114847427",
+                                                "name": "Classic Syrup (sweet)",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379081",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379082",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379084",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "77146429",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "132364765",
+                                "name": "Vienna Creamy Frappuccino",
+                                "category": "Valentine's Special",
+                                "description": "Vienna Creamy Frappuccino: a delightful blend of coffee, milk, mocha, and Vanilla Mascarpone sauce, topped with mascarpone flavoured whipped topping, mocha drizzle, and burnt caramel powder. Smooth and caramelly perfection.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 435 kcal, Grande (473ml) - 605 kcal, Venti (591ml) - 733 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/1/ebe83f4e-5216-42f2-849e-c3621cf2dc1c_191fa1ca-2a29-41f8-9db4-2d5b5a3bb86e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 48500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "71447332",
+                                            "name": "Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Blended Tall",
+                                                    "default": 1,
+                                                    "id": "211928820",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Blended Venti",
+                                                    "price": 10000,
+                                                    "id": "211928821",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Blended Grande",
+                                                    "price": 5000,
+                                                    "id": "211928822",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "71447333",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "211928823",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "272379088",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379090",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "144228956",
+                                                "name": "With Whipped Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379091",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "114847427",
+                                                "name": "Classic Syrup (sweet)",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 5,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379092",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379093",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379094",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "77146431",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "193273662",
+                                "name": "Vienna Creamy Creme Frappuccino",
+                                "category": "Valentine's Special",
+                                "description": "Vienna Creamy Frappuccino: a blend of milk, mocha, and Vanilla Mascarpone sauce, topped with mascarpone flavoured whipped topping, mocha drizzle, and burnt caramel powder. Smooth and caramelly perfection. A coffee free delight.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 370 kcal, Grande (473ml) - 607 kcal, Venti (591ml) - 731 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/1/ebe83f4e-5216-42f2-849e-c3621cf2dc1c_191fa1ca-2a29-41f8-9db4-2d5b5a3bb86e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 48500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "71447334",
+                                            "name": "Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Blended Tall",
+                                                    "default": 1,
+                                                    "id": "211928824",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Blended Venti",
+                                                    "price": 10000,
+                                                    "id": "211928825",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Blended Grande",
+                                                    "price": 5000,
+                                                    "id": "211928826",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "71447335",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "211928827",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "272379095",
+                                        "groupName": "Custom",
+                                        "choices": [
+                                            {
+                                                "id": "63331630",
+                                                "name": "Java Chips",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379096",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "144228956",
+                                                "name": "With Whipped Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379098",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "114847427",
+                                                "name": "Classic Syrup (sweet)",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 5,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379099",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379101",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379102",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "117838660",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "193273664",
+                                "name": "Pink Drink",
+                                "category": "Valentine's Special",
+                                "description": "A vibrant mix of strawberry açaí and coconut flavors, bursting with fruity sweetness.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 127 kcal.\nAllergen - NA.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/31/5188a6ce-b794-4ee6-ae5b-722291a5d906_69567c7d-5d5b-4e0b-a507-e01d717da5b6.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 37000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "272379104",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379105",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "272379106",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "117838659",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "133363348",
+                                "name": "Valentine's Blossom",
+                                "category": "Valentine's Special",
+                                "description": "A rose cake, layered with a cream cheese frosting, strawberry fruit glaze, with Rose Milk. Per serve (100g) - 394 kcal. Allergens : ContainsMilk, Wheat & Soy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/31/92da1df4-b672-41bb-be59-65cb57b12198_4836fc29-5abd-4298-baed-2bc842777598.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 29500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "3 ratings",
+                                        "ratingCountV2": "3"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "77906922",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "163586757",
+                                "name": "Valentine's Marble Loaf Cake",
+                                "category": "Valentine's Special",
+                                "description": "A choco vanilla marble loaf cake with a cream cheese frosting, pista and dried rose petals. Per serve (125g) - 731 kcal. Allergens : Contains Milk, Wheat, Soy & Nuts",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/31/69b3e297-2cf1-4427-aaea-564e8431d21a_6af2e7c1-e449-4bc4-8529-e8c7cad330cc.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 33500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "98404971",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672217",
+                                "name": "Tall Iced Vanilla Latte with Vanilla Protein Foam",
+                                "category": "Protein Picks",
+                                "description": "Iced Vanilla Latte finished with a vanilla protein cold foam, crafted with yeast protein by SuperYou.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 244 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/2ebf9181-7b12-4ecd-8d42-1ed8f46410c9_8a165101-8c5e-4870-b0a9-6108dee07b51.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 43500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514794",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991455",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970254",
+                                        "groupName": "Custom",
+                                        "choices": [
+                                            {
+                                                "id": "63331630",
+                                                "name": "Java Chips",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970255",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970257",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                ],
+                                "parentId": "116873669",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672218",
+                                "name": "Tall Cold Brew with Chocolate Protein Foam",
+                                "category": "Protein Picks",
+                                "description": "Signature Starbucks Cold Brew elevated with a chocolate protein cold foam crafted with yeast protein by SuperYou.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 141 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/e5ca771d-71e3-4da1-beb5-278599958e08_13d9337e-8a7f-4a26-b8c2-6d7d216464d0.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 38500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514795",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991460",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970268",
+                                        "groupName": "Custom",
+                                        "choices": [
+                                            {
+                                                "id": "63331630",
+                                                "name": "Java Chips",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970269",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970270",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "126347540",
+                                                "name": "No Whip Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970272",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+                                    }
+                                ],
+                                "parentId": "116873665",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672219",
+                                "name": "Tall Caramel Frappuccino with Banana Foam",
+                                "category": "Protein Picks",
+                                "description": "Your favorite caramel treat, now topped with banana protein cold foam crafted with yeast protein by SuperYou \nServing size (ml)/Calories (kcal) - Tall (354ml) - 244 kcal.\nAllergen - Contains Milk, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/acbb3f99-5775-4080-9c4c-177a1abfead7_d651a1d2-308b-4902-8fe2-fe5baf8b6cde.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 41000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514796",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991465",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970290",
+                                        "groupName": "Custom",
+                                        "choices": [
+                                            {
+                                                "id": "63331630",
+                                                "name": "Java Chips",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970291",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970292",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "126347540",
+                                                "name": "No Whip Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970293",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+                                    }
+                                ],
+                                "parentId": "116873663",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672223",
+                                "name": "Chicken Ragi Flat Bread",
+                                "category": "Protein Picks",
+                                "description": "Roasted chicken tossed in honey chilly mustard vinaigrette and topped with cheese and olives.\nPer Serve (130g) - 426 kcal.\nAllergens: Contains Milk, Wheat.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/3c1f1530-8c1c-40cb-bf40-3ed0d087209d_99476651-7d41-4862-bb05-0adf103841ff.jpg",
+                                "inStock": 1,
+                                "price": 29500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116678134",
+                                "menuFilterIds": [
+                                    "NONVEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672224",
+                                "name": "Pesto Veggie Ragi Flatbread",
+                                "category": "Protein Picks",
+                                "description": "Broccoli and Mushroom tossed in pesto topped on a Ragi flatbread with labneh.\nPer Serve (120g) - 313 kcal.\nAllergens: Contains Milk, Wheat, Nuts.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/10/e9b61ddc-0024-46b4-8428-18b9d6102eb6_3b740a9a-7693-4581-af91-5494b7c46e4b.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 28000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116678140",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672225",
+                                "name": "Tall Iced Caramel Latte Unsweetneed",
+                                "category": "Zero Sugar Flavours",
+                                "description": "Starbucks Signature Iced Latte with elevated with zero sugar caramel flavour.\nServing size (ml)/Calories (kcal) - Tall (354ml) - 122 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/10/3545c1e0-5b9e-478e-ab12-47e67a5150ec_dc513197-35ee-49b6-be54-3405a93286ee.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 38500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514798",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991475",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Skimmed Milk",
+                                                    "id": "209991476",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Soy",
+                                                    "price": 6500,
+                                                    "id": "209991477",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Oats",
+                                                    "price": 8500,
+                                                    "id": "209991478",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Almond",
+                                                    "price": 8500,
+                                                    "id": "209991479",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970312",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "130089128",
+                                                "name": "Indian Espresso Roast (regular) - Default",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970314",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "126347540",
+                                                "name": "No Whip Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "126347541",
+                                                "name": "With Whipped Topping",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970317",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970320",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970323",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970324",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116873668",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672226",
+                                "name": "Short Double Blonde Vanilla Cappuccino Unsweetened",
+                                "category": "Zero Sugar Flavours",
+                                "description": "Starbucks Cappuccino made with double shot blonde espresso roast with zero sugar vanilla flavour.\nServing size (ml)/Calories (kcal) - Short (237ml) - 66 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/10/a1baa344-9484-4b7f-84aa-773a2834ed30_8a4f81d9-55e3-4f5d-9cc5-56c868cd36c0.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 41000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514799",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991480",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Skimmed Milk",
+                                                    "id": "209991481",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Soy",
+                                                    "price": 6500,
+                                                    "id": "209991482",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Oats",
+                                                    "price": 8500,
+                                                    "id": "209991483",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Almond",
+                                                    "price": 8500,
+                                                    "id": "209991484",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970326",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "143686275",
+                                                "name": "Indian Espresso Roast (regular)",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970327",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "126347540",
+                                                "name": "No Whip Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "126347541",
+                                                "name": "With Whipped Topping",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970328",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970329",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970330",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970331",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116873660",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191672228",
+                                "name": "Short Hazelnut Flat White Unsweetened",
+                                "category": "Zero Sugar Flavours",
+                                "description": "Signature Starbucks Flat white paired zero sugar hazelnut flavour to elevate your favorite cup of coffee.\nServing size (ml)/Calories (kcal) - Short (237ml) - 104 kcal.\nAllergen - Contains Milk.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/10/233dd753-86b3-4d23-9dce-58f3281a00e9_daf6d1d0-65c8-49a5-9af5-e6ff710be942.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 37000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70514801",
+                                            "name": "Dairy(Milk)/Non-Dairy Alternatives",
+                                            "variations": [
+                                                {
+                                                    "name": "Regular milk",
+                                                    "default": 1,
+                                                    "id": "209991490",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Skimmed Milk",
+                                                    "id": "209991491",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Soy",
+                                                    "price": 6500,
+                                                    "id": "209991492",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Oats",
+                                                    "price": 8500,
+                                                    "id": "209991493",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Almond",
+                                                    "price": 8500,
+                                                    "id": "209991494",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "267970335",
+                                        "groupName": "Choice Of Espresso",
+                                        "choices": [
+                                            {
+                                                "id": "143686275",
+                                                "name": "Indian Espresso Roast (regular)",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331264",
+                                                "name": "Blonde Espresso",
+                                                "price": 1,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970338",
+                                        "groupName": "Whipped cream",
+                                        "choices": [
+                                            {
+                                                "id": "126347540",
+                                                "name": "No Whip Cream",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "126347541",
+                                                "name": "With Whipped Topping",
+                                                "price": 3500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970339",
+                                        "groupName": "Syrups & Sauces ",
+                                        "choices": [
+                                            {
+                                                "id": "73152881",
+                                                "name": "Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "73152897",
+                                                "name": "White Mocha Sauce",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "63331281",
+                                                "name": "Caramel Drizzle",
+                                                "price": 5500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "129239051",
+                                                "name": "Strawberry Sauce",
+                                                "price": 5000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 4,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970342",
+                                        "groupName": "Hazelnut Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686298",
+                                                "name": "Hazelnut Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686280",
+                                                "name": "Hazelnut Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686302",
+                                                "name": "Hazelnut Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970343",
+                                        "groupName": "Vanilla Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686288",
+                                                "name": "Vanilla Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686290",
+                                                "name": "Vanilla Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686276",
+                                                "name": "Vanilla Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "267970345",
+                                        "groupName": "Caramel Flavour",
+                                        "choices": [
+                                            {
+                                                "id": "143686291",
+                                                "name": "Caramel Regular",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686294",
+                                                "name": "Caramel Less Sweet",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143686303",
+                                                "name": "Caramel Unsweetened",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116873661",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191924810",
+                                "name": "Tall Cold Brew with Chocolate Protein Foam with Chicken Ragi Flat Bread",
+                                "category": "Power Protein Pairings",
+                                "description": "Signature starbucks cold brew black elevated with chocolate flavoured protein foam. Roasted chicken tossed in honey chilly mustard vinaigrette and topped with cheese and olives.\nBeverage Serving size - Tall (354ml) - 141 kcal.\nFood Serving Size - Per Serve (130g) - 426 kcal.\nAllergen - Contains Milk, Wheat.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/12/ac2a3026-2794-4390-88fd-fa47c25bbc46_68444269-76d5-4cd6-82ae-894629309891.jpg",
+                                "inStock": 1,
+                                "price": 68000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70683209",
+                                            "name": "Tall Cold Brew with Chocolate Protein Foam Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Cold Brew with Chocolate Protein Foam",
+                                                    "default": 1,
+                                                    "id": "210358558",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                ],
+                                "parentId": "116873666",
+                                "menuFilterIds": [
+                                    "NONVEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191924811",
+                                "name": "Tall Iced Vanilla Latte with Vanilla Protein Foam with Pesto Veggie Ragi Flatbread",
+                                "category": "Power Protein Pairings",
+                                "description": "Starbucks Iced Vanilla Latte topped with Vanilla flavoured protein foam. Broccoli and Mushroom tossed in pesto topped on a Ragi flatbread with labneh.\nBeverage Serving size - Tall (354ml) - 244 kcal.\nFood Serving Size - Per Serve (120g) - 313 kcal.\nAllergen - Contains Milk, Wheat, Nuts.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/12/9445ca6d-3280-4cb7-a793-228d3f5bfb8e_d83e3f8b-4c2f-4cbc-950d-9f26b01ef822.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 71500,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70683210",
+                                            "name": "Tall Iced Vanilla Latte with Vanilla Protein Foam Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Iced Vanilla Latte with Vanilla Protein Foam",
+                                                    "default": 1,
+                                                    "id": "210358559",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "merch_bau/High%20Protein%201_1.png"
+                                    }
+                                ],
+                                "parentId": "116873670",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "191924812",
+                                "name": "Tall Caramel Frappuccino with Banana Foam with Tofu Spinach Croissant Sandwich",
+                                "category": "Power Protein Pairings",
+                                "description": "Enjoy your favorite caramel Frappuccino paired with banana protein foam. Scrambled tofu & spinach with Cheddar cheese & feta spread encased in a buttery & herbed croissant for a savory delight.\nBeverage Serving size - Tall (354ml) - 244 kcal.\nFood Serving Size - Per serve (105 g) - 595 kcal.\nAllergen - Contains Milk, Soy, Wheat.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/12/0f02bbb1-a9e9-4acc-a248-8b69a89e3402_b8c5a2b2-069d-4af6-97f1-d21a96e46ee4.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 76000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "70683211",
+                                            "name": "Tall Caramel Frappuccino with Banana Foam Size",
+                                            "variations": [
+                                                {
+                                                    "name": "Caramel Frappuccino with Banana Foam",
+                                                    "default": 1,
+                                                    "id": "210358560",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "116873664",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "169025419",
+                                "name": "Best Seller Bundle",
+                                "category": "Make your Own Combo",
+                                "description": "Try Our Best-Selling Food & Beverage Combos!",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/8/d5aada58-7506-448a-9d06-9f8727160938_cc945001-2fb8-4e33-b283-049215287850.jpg",
+                                "inStock": 1,
+                                "price": 49000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "58501953",
+                                            "name": "Drinks_Option",
+                                            "variations": [
+                                                {
+                                                    "name": "Short Flat white",
+                                                    "default": 1,
+                                                    "id": "190848960",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Cappuccino",
+                                                    "price": 1000,
+                                                    "id": "181583198",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Cold Coffee",
+                                                    "price": 1000,
+                                                    "id": "181583199",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Iced Tall Latte",
+                                                    "price": 1500,
+                                                    "id": "190848961",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Java Chip Frappuccino",
+                                                    "price": 5500,
+                                                    "id": "181583200",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Vanilla Sweet Cream Cold brew",
+                                                    "price": 7000,
+                                                    "id": "190848962",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Iced Tall Cold brew with Ginger Ale",
+                                                    "price": 9000,
+                                                    "id": "190848963",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Double Chocolate Chip Frappuccino",
+                                                    "price": 10000,
+                                                    "id": "190848964",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "58501954",
+                                            "name": "Food_Options",
+                                            "variations": [
+                                                {
+                                                    "name": "Masala Potato Puff",
+                                                    "default": 1,
+                                                    "id": "181583201",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Cheese Peri Peri Pop Fries",
+                                                    "price": 1500,
+                                                    "id": "190848965",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Masala Crispers",
+                                                    "price": 2000,
+                                                    "id": "190848966",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Paneer Tikka Sandwich",
+                                                    "price": 10000,
+                                                    "id": "181583203",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Double Chocolate Chip Cookie",
+                                                    "price": 11500,
+                                                    "id": "190848967",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Egg White & Chicken in Multigrain Croiss",
+                                                    "price": 19000,
+                                                    "id": "181583206",
+                                                    "inStock": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Butter Croissant",
+                                                    "price": 9500,
+                                                    "id": "181583202",
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Basil Tomato & Mozzarella Cheese Sandwich",
+                                                    "price": 20000,
+                                                    "id": "210834312",
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "101969541",
+                                "menuFilterIds": [
+                                    "NONVEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "169025420",
+                                "name": "Picco Delights",
+                                "category": "Make your Own Combo",
+                                "description": "Try our Picco beverage & food combo",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/8/b3e07cef-b9ab-40d6-b411-5a23b8cf46ca_e9356cd5-c48e-4594-9247-a39c6c4136f3.jpg",
+                                "inStock": 1,
+                                "price": 33000,
+                                "variants": {
+                                    "variantGroups": [
+                                        {
+                                            "groupId": "58501955",
+                                            "name": "Drinks_Option",
+                                            "variations": [
+                                                {
+                                                    "name": "Picco Classic Hot Coffee",
+                                                    "default": 1,
+                                                    "id": "181583207",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Cappuccino",
+                                                    "price": 10500,
+                                                    "id": "181583208",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Latte",
+                                                    "price": 11000,
+                                                    "id": "181583209",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Tall Java Chip Frappuccino",
+                                                    "price": 21500,
+                                                    "id": "181583210",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "groupId": "58501956",
+                                            "name": "Food_Options",
+                                            "variations": [
+                                                {
+                                                    "name": "Masala Potato Puff",
+                                                    "default": 1,
+                                                    "id": "181583211",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Double Chocolate Chip Cookie",
+                                                    "price": 11500,
+                                                    "id": "190848979",
+                                                    "inStock": 1,
+                                                    "isVeg": 1,
+                                                    "isEnabled": 1
+                                                },
+                                                {
+                                                    "name": "Butter Croissant",
+                                                    "price": 9500,
+                                                    "id": "181583212",
+                                                    "isEnabled": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                },
+                                "ribbon": {},
+                                "showImage": true,
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "101969542",
+                                "menuFilterIds": [
+                                    "NONVEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    }
+                ],
+                "type": "CATEGORY_TYPE_RECOMMENDED",
+                "subtitleSuffix": {},
+                "categoryId": "-1"
+            }
+        }
+    }
+]
