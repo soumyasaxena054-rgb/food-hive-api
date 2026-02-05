@@ -169,1723 +169,1316 @@
             "card": {
                 "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
                 "title": "Brewed Coffee",
-                "categories": [
+                "itemCards": [
                     {
-                        "title": "Hot Coffee",
-                        "itemCards": [
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "184302699",
-                                        "name": "Vanilla Bean Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "375 ml | Our signature espresso with milk and house-made vanilla syrup, crafted using real vanilla beans.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/adb18ac3-9e29-4cb6-abf1-a0ca85e96478_bfee204d-2ef4-42f9-89e7-12d69a41d3c5.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 27500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "184302699",
+                                "name": "Vanilla Bean Latte",
+                                "category": "Brewed Coffee",
+                                "description": "375 ml | Our signature espresso with milk and house-made vanilla syrup, crafted using real vanilla beans.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/adb18ac3-9e29-4cb6-abf1-a0ca85e96478_bfee204d-2ef4-42f9-89e7-12d69a41d3c5.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "251020376",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "251020376",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "140636870",
-                                                        "name": "Lactose Free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "140636867",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "140636864",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "375 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "1 rating",
-                                                "ratingCountV2": "1"
+                                                "id": "140636870",
+                                                "name": "Lactose Free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "111978345",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237727",
-                                        "name": "Espresso",
-                                        "category": "Brewed Coffee",
-                                        "description": "40 ml | A single shot of espresso. Clean and bold.  [Energy: 20 kcal, Protein: 1.12g, Carbohydrates: 3.72g, Fiber: 0g, Fat: 0.2g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/8a9ed818-6bd6-45a2-9fc4-0ae72aa0805b_b71c8852-171a-4157-b1ed-ac5f6c111880.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 20000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
                                             {
-                                                "groupId": "117966982",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "143513389",
-                                                        "name": "Oat Milk",
-                                                        "price": 4000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "143513391",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 4000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "127396865",
-                                                        "name": "Regular Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "40 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "2 ratings",
-                                                "ratingCountV2": "2"
+                                                "id": "140636867",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                            {
+                                                "id": "140636864",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
-                                        },
-                                        "parentId": "21397297",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "375 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "111978345",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237733",
-                                        "name": "Americano",
-                                        "category": "Brewed Coffee",
-                                        "description": "200 ml | Hot water and espresso. Straightforward and full-flavored.  [Energy: 23 kcal, Protein: 1.31g, Carbohydrates: 4.37g, Fiber: 0g, Fat: 0.23g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/a5374598-5e2a-4272-97e4-f33718bce005_c06d8ecc-7d92-413e-89d1-5dc690a447f4.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 21000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "237926216",
-                                                "groupName": "Choice Of Milk  ",
-                                                "choices": [
-                                                    {
-                                                        "id": "143513394",
-                                                        "name": "Oat Milk",
-                                                        "price": 4000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "143513393",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 4000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "143513390",
-                                                        "name": "Regular Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "200 ml"
-                                        },
-                                        "ribbon": {
-                                            "text": "Bestseller",
-                                            "textColor": "#ffffff",
-                                            "topBackgroundColor": "#d53d4c",
-                                            "bottomBackgroundColor": "#b02331"
-                                        },
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "isBestseller": true,
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "7 ratings",
-                                                "ratingCountV2": "7"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21396629",
-                                        "menuFilterIds": [
-                                            "bestseller",
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237728",
-                                        "name": "Cortado",
-                                        "category": "Brewed Coffee",
-                                        "description": "100 ml | Espresso with 60ml of textured milk. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 63 kcal, Allergen: milk, Protein: 3.08g, Carbohydrates: 6.68g, Fiber: 0g, Fat: 2.89g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/cea7e364-5d83-4f79-aeb9-5fe057bf2a8c_220b5baa-f80c-4b9d-a3f9-bfa3ca80d980.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 23000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "116493122",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435136",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435153",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249370",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "100 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "2.7",
-                                                "ratingCount": "4 ratings",
-                                                "ratingCountV2": "4"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#FFF0CD",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_low",
-                                                "ratingTextColor": "rating_low",
-                                                "ratingCountTextColor": "rating_low",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21397190",
-                                        "menuFilterIds": [
-                                            "VEG"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237734",
-                                        "name": "Flat White",
-                                        "category": "Brewed Coffee",
-                                        "description": "230 ml | Espresso with hot milk and a thin layer of microfoam. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 146 kcal, Protein: 6.92g, Carbohydrates: 10.79g, Fiber: 0g, Fat: 8.52g]",
-                                        "imageId": "b82e6d33bcb981d398704464eff65e2b",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 24000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "116493133",
-                                                "groupName": "Choice   Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435141",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435163",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249373",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "230 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.5",
-                                                "ratingCount": "6 ratings",
-                                                "ratingCountV2": "6"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
-                                            {
-                                                "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
-                                            }
-                                        ],
-                                        "parentId": "21397331",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237735",
-                                        "name": "Cappuccino",
-                                        "category": "Brewed Coffee",
-                                        "description": "230 ml | Espresso with steamed milk and foam. A well-balanced classic.  [Energy: 146 kcal, Protein: 6.92g, Carbohydrates: 10.79g, Fiber: 0g, Fat: 8.52g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/e48948d1-621e-4ff0-a1fc-51e0acf559ee_57e4753d-cd84-433f-956c-84f6c4469e51.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 24000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "116493134",
-                                                "groupName": "Choice  Of   Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435142",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435166",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249248",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "230 ml"
-                                        },
-                                        "ribbon": {
-                                            "text": "Bestseller",
-                                            "textColor": "#ffffff",
-                                            "topBackgroundColor": "#d53d4c",
-                                            "bottomBackgroundColor": "#b02331"
-                                        },
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "isBestseller": true,
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.3",
-                                                "ratingCount": "34 ratings",
-                                                "ratingCountV2": "34"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
-                                            {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
-                                            }
-                                        ],
-                                        "parentId": "21396949",
-                                        "menuFilterIds": [
-                                            "bestseller",
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237729",
-                                        "name": "Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "230 ml | Espresso with extra milk and steamed microfoam. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 159 kcal, Allergen: milk, Protein: 7.32g, Carbohydrates: 13.03g, Fiber: 0g, Fat: 8.77g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/604a68ed-2efa-471b-ba3c-f104455a5620_be2d0783-5321-4bbf-b9aa-680e0dbb7ccb.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 25000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "116493123",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435154",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435140",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249151",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "230 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.3",
-                                                "ratingCount": "9 ratings",
-                                                "ratingCountV2": "9"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
-                                            {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
-                                            }
-                                        ],
-                                        "parentId": "21397632",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "155565458",
-                                        "name": "Spanish Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "230 ml | A spanish spin on a hot coffee classic, with layers of espresso, textured milk and sweetened condensed milk, spiced with a touch of cinnamon perfect for autumn.  [Energy: 159 kcal, Protein: 7.32g, Carbohydrates: 13.03g, Fiber: 0g, Fat: 8.77g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/15/97d124c2-1372-4563-a002-6e093f8e3d9e_0d0414e9-6b7e-4ed5-943d-1d380732d23e.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 28500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "230 ml"
-                                        },
-                                        "ribbon": {
-                                            "text": "Bestseller",
-                                            "textColor": "#ffffff",
-                                            "topBackgroundColor": "#d53d4c",
-                                            "bottomBackgroundColor": "#b02331"
-                                        },
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "isBestseller": true,
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "3.7",
-                                                "ratingCount": "7 ratings",
-                                                "ratingCountV2": "7"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#D9EFEC",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_medium",
-                                                "ratingTextColor": "rating_medium",
-                                                "ratingCountTextColor": "rating_medium",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
-                                            {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
-                                            }
-                                        ],
-                                        "parentId": "92882325",
-                                        "menuFilterIds": [
-                                            "bestseller",
-                                            "VEG"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237731",
-                                        "name": "Mocha",
-                                        "category": "Brewed Coffee",
-                                        "description": "240 ml | Espresso with steamed milk and melted handmade chocolate by darkins. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 346 kcal, Protein: 9.36g, Carbohydrates: 26.88g, Fiber: 1.37g, Fat: 22.49g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/c1d1c229-832d-402d-bc2c-f6bf19c09363_eb322673-fba1-43ed-882e-508f22552943.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 29500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "116493125",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "116249293",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435156",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435146",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "240 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "2.9",
-                                                "ratingCount": "8 ratings",
-                                                "ratingCountV2": "8"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#FFF0CD",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_low",
-                                                "ratingTextColor": "rating_low",
-                                                "ratingCountTextColor": "rating_low",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21397727",
-                                        "menuFilterIds": [
-                                            "VEG"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "189270202",
-                                        "name": "Dark Chocolate Mocha",
-                                        "category": "Brewed Coffee",
-                                        "description": "190 ml | 70% dark hot chocolate meets our signature espresso for a rich, luscious drink [Energy: 257.8 kcal, Allergen: milk,soy, Protein: 6.1g, Carbohydrates: 20.5g, Fiber: 1.37g, Fat: 16.7g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/15/7c7f315a-b433-4e95-98ff-db750311d7ed_9a5ec2cc-6800-419c-8af8-5d9455d50095.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 32500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
-                                            {
-                                                "groupId": "262897261",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "116249293",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435156",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435146",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
-                                            }
-                                        ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "190 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {}
-                                        },
-                                        "parentId": "115183944",
-                                        "menuFilterIds": [
-                                            "VEG"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            }
-                        ],
-                        "subtitleSuffix": {},
-                        "categoryId": "61791641"
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
                     },
                     {
-                        "title": "Cold Coffee",
-                        "itemCards": [
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "184302698",
-                                        "name": "Vanilla Bean Iced Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "375 ml | A smooth, creamy and refreshing latte with our house-made vanilla syrup, crafted using real vanilla beans.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/2e94273b-2313-4081-8f3b-21aa13f7e552_c2416595-acf4-4fe0-bca7-4d73244e0a27.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 29500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237727",
+                                "name": "Espresso",
+                                "category": "Brewed Coffee",
+                                "description": "40 ml | A single shot of espresso. Clean and bold.  [Energy: 20 kcal, Protein: 1.12g, Carbohydrates: 3.72g, Fiber: 0g, Fat: 0.2g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/8a9ed818-6bd6-45a2-9fc4-0ae72aa0805b_b71c8852-171a-4157-b1ed-ac5f6c111880.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 20000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "117966982",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "251020363",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "140636869",
-                                                        "name": "Lactose Free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "140636868",
-                                                        "name": "Oat Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "140636866",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
+                                                "id": "143513389",
+                                                "name": "Oat Milk",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143513391",
+                                                "name": "Lactose-free Milk",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "127396865",
+                                                "name": "Regular Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "375 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "1 rating",
-                                                "ratingCountV2": "1"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "111978344",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "40 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "2 ratings",
+                                        "ratingCountV2": "2"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "184302700",
-                                        "name": "Vienna Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "200 ml | The bold kick of espresso crafted using our vienna roast, balanced by sweet layers of cream, condensed milk, and butterscotch. Served with ice.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/1bf229a7-90d7-45f1-933d-ccb7636abaaf_35b1f24f-1467-4178-b7ec-f5daa0ac3cfd.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 34500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "200 ml"
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "1 rating",
-                                                "ratingCountV2": "1"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "111978346",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "21397297",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237738",
-                                        "name": "Iced Americano",
-                                        "category": "Brewed Coffee",
-                                        "description": "220 ml | Cold espresso and water. Clean, crisp, and bold.  [Energy: 22 kcal, Protein: 1.126g, Carbohydrates: 4.19g, Fiber: 0g, Fat: 0.22g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/8bfc4330-37dd-4681-9711-24a228eff5e8_4631645f-0893-4faa-8901-bc350894dd0c.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 22000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237733",
+                                "name": "Americano",
+                                "category": "Brewed Coffee",
+                                "description": "200 ml | Hot water and espresso. Straightforward and full-flavored.  [Energy: 23 kcal, Protein: 1.31g, Carbohydrates: 4.37g, Fiber: 0g, Fat: 0.23g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/a5374598-5e2a-4272-97e4-f33718bce005_c06d8ecc-7d92-413e-89d1-5dc690a447f4.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 21000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "237926216",
+                                        "groupName": "Choice Of Milk  ",
+                                        "choices": [
                                             {
-                                                "groupId": "237926224",
-                                                "groupName": "Choice Of  Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139702436",
-                                                        "name": "Regular Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "143513392",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 4000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1
+                                                "id": "143513394",
+                                                "name": "Oat Milk",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143513393",
+                                                "name": "Lactose-free Milk",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143513390",
+                                                "name": "Regular Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "220 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.4",
-                                                "ratingCount": "6 ratings",
-                                                "ratingCountV2": "6"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21397542",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "200 ml"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "7 ratings",
+                                        "ratingCountV2": "7"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "21396629",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237736",
-                                        "name": "Iced Espresso",
-                                        "category": "Brewed Coffee",
-                                        "description": "100 ml | Espresso poured over ice. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 20 kcal, Protein: 1.12g, Carbohydrates: 3.72g, Fiber: 0g, Fat: 0.2g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/b4da0536-1121-4d30-a098-f142894effa6_e1eede25-ce21-4721-86bc-84d4e9f0afd4.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 21000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237728",
+                                "name": "Cortado",
+                                "category": "Brewed Coffee",
+                                "description": "100 ml | Espresso with 60ml of textured milk. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 63 kcal, Allergen: milk, Protein: 3.08g, Carbohydrates: 6.68g, Fiber: 0g, Fat: 2.89g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/cea7e364-5d83-4f79-aeb9-5fe057bf2a8c_220b5baa-f80c-4b9d-a3f9-bfa3ca80d980.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 23000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493122",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "116493135",
-                                                "groupName": "Choice  Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435134",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "127396868",
-                                                        "name": "Regular Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1
+                                                "id": "139435136",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435153",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249370",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "100 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {}
-                                        },
-                                        "parentId": "21397547",
-                                        "menuFilterIds": [
-                                            "VEG"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "100 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "2.7",
+                                        "ratingCount": "4 ratings",
+                                        "ratingCountV2": "4"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#FFF0CD",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_low",
+                                        "ratingTextColor": "rating_low",
+                                        "ratingCountTextColor": "rating_low",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "21397190",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237741",
-                                        "name": "Iced Latte",
-                                        "category": "Brewed Coffee",
-                                        "description": "315 ml | Espresso and chilled milk. No fuss, just smooth and strong.  [Energy: 136 kcal, Allergen: milk, Protein: 6.48g, Carbohydrates: 10.13g, Fiber: 0g, Fat: 7.88g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/68c29dea-baba-4e3d-89b1-982de326e30f_dac3051b-249b-4b77-9636-19b7928e9225.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 27500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237734",
+                                "name": "Flat White",
+                                "category": "Brewed Coffee",
+                                "description": "230 ml | Espresso with hot milk and a thin layer of microfoam. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 146 kcal, Protein: 6.92g, Carbohydrates: 10.79g, Fiber: 0g, Fat: 8.52g]",
+                                "imageId": "b82e6d33bcb981d398704464eff65e2b",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493133",
+                                        "groupName": "Choice   Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "116493137",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "143460324",
-                                                        "name": "Oat Milk",
-                                                        "price": 1905,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435139",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249207",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
+                                                "id": "139435141",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435163",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249373",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "315 ml"
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "230 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.5",
+                                        "ratingCount": "6 ratings",
+                                        "ratingCountV2": "6"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.7",
-                                                "ratingCount": "14 ratings",
-                                                "ratingCountV2": "14"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+                                    }
+                                ],
+                                "parentId": "21397331",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237735",
+                                "name": "Cappuccino",
+                                "category": "Brewed Coffee",
+                                "description": "230 ml | Espresso with steamed milk and foam. A well-balanced classic.  [Energy: 146 kcal, Protein: 6.92g, Carbohydrates: 10.79g, Fiber: 0g, Fat: 8.52g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/e48948d1-621e-4ff0-a1fc-51e0acf559ee_57e4753d-cd84-433f-956c-84f6c4469e51.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493134",
+                                        "groupName": "Choice  Of   Milk",
+                                        "choices": [
                                             {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                                "id": "139435142",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435166",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249248",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "parentId": "21397549",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "230 ml"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.3",
+                                        "ratingCount": "34 ratings",
+                                        "ratingCountV2": "34"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    }
+                                ],
+                                "parentId": "21396949",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237745",
-                                        "name": "Cold Brew With Milk",
-                                        "category": "Brewed Coffee",
-                                        "description": "310 ml | For people who like a balance of cold coffee and cold brew, this delicious latte style cold brew has notes of creamy milk chocolate, nuts and caramel.  [Energy: 113 kcal, Allergen: milk, Protein: 4.59g, Carbohydrates: 15.12g, Fiber: 0g, Fat: 3.84g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/ff95a46f-a520-419f-84aa-c43ec00cd71f_778fb9b1-e7c4-4cf9-94a9-035da2b444f0.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 24000,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237729",
+                                "name": "Latte",
+                                "category": "Brewed Coffee",
+                                "description": "230 ml | Espresso with extra milk and steamed microfoam. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 159 kcal, Allergen: milk, Protein: 7.32g, Carbohydrates: 13.03g, Fiber: 0g, Fat: 8.77g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/604a68ed-2efa-471b-ba3c-f104455a5620_be2d0783-5321-4bbf-b9aa-680e0dbb7ccb.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 25000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493123",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "116493140",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "139435144",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249172",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
+                                                "id": "139435154",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435140",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249151",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "310 ml"
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "230 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.3",
+                                        "ratingCount": "9 ratings",
+                                        "ratingCountV2": "9"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "3 ratings",
-                                                "ratingCountV2": "3"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    }
+                                ],
+                                "parentId": "21397632",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "155565458",
+                                "name": "Spanish Latte",
+                                "category": "Brewed Coffee",
+                                "description": "230 ml | A spanish spin on a hot coffee classic, with layers of espresso, textured milk and sweetened condensed milk, spiced with a touch of cinnamon perfect for autumn.  [Energy: 159 kcal, Protein: 7.32g, Carbohydrates: 13.03g, Fiber: 0g, Fat: 8.77g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/15/97d124c2-1372-4563-a002-6e093f8e3d9e_0d0414e9-6b7e-4ed5-943d-1d380732d23e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 28500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "230 ml"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.7",
+                                        "ratingCount": "7 ratings",
+                                        "ratingCountV2": "7"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "imageBadges": [
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    }
+                                ],
+                                "parentId": "92882325",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237731",
+                                "name": "Mocha",
+                                "category": "Brewed Coffee",
+                                "description": "240 ml | Espresso with steamed milk and melted handmade chocolate by darkins. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 346 kcal, Protein: 9.36g, Carbohydrates: 26.88g, Fiber: 1.37g, Fat: 22.49g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/c1d1c229-832d-402d-bc2c-f6bf19c09363_eb322673-fba1-43ed-882e-508f22552943.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 29500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493125",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                                "id": "116249293",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435156",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435146",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "parentId": "21397179",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "240 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "2.9",
+                                        "ratingCount": "8 ratings",
+                                        "ratingCountV2": "8"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#FFF0CD",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_low",
+                                        "ratingTextColor": "rating_low",
+                                        "ratingCountTextColor": "rating_low",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "21397727",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237739",
-                                        "name": "Vietnamese Style Iced Coffee",
-                                        "category": "Brewed Coffee",
-                                        "description": "300 ml | Our take on the vietnamese classic. Concentrated dark cold brew poured over ice, topped with sweetened condensed milk. (brewed using a specially curated dark roasted dhak blend - made with some of india's highest scoring coffee beans. ) [Energy: 260 kcal, Protein: 8.16g, Carbohydrates: 44.46g, Fiber: 0g, Fat: 5.4g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/26/f22a249f-3c89-4357-af24-9beb83c8d02d_2b4bd298-f04e-4be0-a860-1d4b15aa0ca4.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 27500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "189270202",
+                                "name": "Dark Chocolate Mocha",
+                                "category": "Brewed Coffee",
+                                "description": "190 ml | 70% dark hot chocolate meets our signature espresso for a rich, luscious drink [Energy: 257.8 kcal, Allergen: milk,soy, Protein: 6.1g, Carbohydrates: 20.5g, Fiber: 1.37g, Fat: 16.7g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/15/7c7f315a-b433-4e95-98ff-db750311d7ed_9a5ec2cc-6800-419c-8af8-5d9455d50095.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 32500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "262897261",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "251020388",
-                                                "groupName": "Extra Condensed Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "140636865",
-                                                        "name": "Condensed Milk",
-                                                        "price": 3000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1
+                                                "id": "116249293",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435156",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "139435146",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "300 ml"
-                                        },
-                                        "ribbon": {
-                                            "text": "Bestseller",
-                                            "textColor": "#ffffff",
-                                            "topBackgroundColor": "#d53d4c",
-                                            "bottomBackgroundColor": "#b02331"
-                                        },
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "isBestseller": true,
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.7",
-                                                "ratingCount": "50 ratings",
-                                                "ratingCountV2": "50"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21398418",
-                                        "menuFilterIds": [
-                                            "bestseller",
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "190 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "115183944",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237742",
-                                        "name": "Iced Cappuccino",
-                                        "category": "Brewed Coffee",
-                                        "description": "280 ml | Espresso blended with ice, milk and date syrup. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 172 kcal, Allergen: milk, Protein: 5.26g, Carbohydrates: 24.69g, Fat: 5.91g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/1ed63d57-511c-46f8-b1f5-d867763f9ce0_c395bff6-72e6-4040-9a8d-055054566b49.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 26500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "addons": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "184302698",
+                                "name": "Vanilla Bean Iced Latte",
+                                "category": "Brewed Coffee",
+                                "description": "375 ml | A smooth, creamy and refreshing latte with our house-made vanilla syrup, crafted using real vanilla beans.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/2e94273b-2313-4081-8f3b-21aa13f7e552_c2416595-acf4-4fe0-bca7-4d73244e0a27.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 29500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "251020363",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
                                             {
-                                                "groupId": "116493138",
-                                                "groupName": "Choice Of Milk",
-                                                "choices": [
-                                                    {
-                                                        "id": "142237050",
-                                                        "name": "Oat Milk",
-                                                        "price": 1905,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "139435145",
-                                                        "name": "Lactose-free Milk",
-                                                        "price": 2000,
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    },
-                                                    {
-                                                        "id": "116249261",
-                                                        "name": "Regular Milk",
-                                                        "inStock": 1,
-                                                        "isVeg": 1,
-                                                        "isEnabled": 1
-                                                    }
-                                                ],
-                                                "maxAddons": 1,
-                                                "maxFreeAddons": -1,
-                                                "minAddons": 1
+                                                "id": "140636869",
+                                                "name": "Lactose Free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "140636868",
+                                                "name": "Oat Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "140636866",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "280 ml"
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "375 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "3 ratings",
-                                                "ratingCountV2": "3"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "111978344",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "184302700",
+                                "name": "Vienna Latte",
+                                "category": "Brewed Coffee",
+                                "description": "200 ml | The bold kick of espresso crafted using our vienna roast, balanced by sweet layers of cream, condensed milk, and butterscotch. Served with ice.  [Energy: 197 kcal, Allergen: milk, Protein: 5.2g, Carbohydrates: 23g, Fat: 8.8g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/1bf229a7-90d7-45f1-933d-ccb7636abaaf_35b1f24f-1467-4178-b7ec-f5daa0ac3cfd.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 34500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "200 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "1 rating",
+                                        "ratingCountV2": "1"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
                                         },
-                                        "imageBadges": [
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "111978346",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237738",
+                                "name": "Iced Americano",
+                                "category": "Brewed Coffee",
+                                "description": "220 ml | Cold espresso and water. Clean, crisp, and bold.  [Energy: 22 kcal, Protein: 1.126g, Carbohydrates: 4.19g, Fiber: 0g, Fat: 0.22g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/8bfc4330-37dd-4681-9711-24a228eff5e8_4631645f-0893-4faa-8901-bc350894dd0c.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "237926224",
+                                        "groupName": "Choice Of  Milk",
+                                        "choices": [
                                             {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                                "id": "139702436",
+                                                "name": "Regular Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143513392",
+                                                "name": "Lactose-free Milk",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "parentId": "21397543",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "220 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.4",
+                                        "ratingCount": "6 ratings",
+                                        "ratingCountV2": "6"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "21397542",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237747",
-                                        "name": "Cold Coffee Milkshake",
-                                        "category": "Brewed Coffee",
-                                        "description": "300 ml | Rich and creamy; this is the only coffee milkshake you need. Consists of espresso, artisanal ice cream and milk.  [Energy: 393 kcal, Allergen: milk, Protein: 9.69g, Carbohydrates: 37.29g, Fiber: 0g, Fat: 22.99g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/a965f335-4725-47dd-bb1b-ebfa536b4940_77976e0f-3d93-4dfb-acb5-0cc5f6ae220e.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 28500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "300 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.0",
-                                                "ratingCount": "1 rating",
-                                                "ratingCountV2": "1"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "107098988",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237744",
-                                        "name": "Iced Mocha",
-                                        "category": "Brewed Coffee",
-                                        "description": "300 ml | Espresso with melted chocolate and milk, poured over ice. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 374 kcal, Allergen: milk, Protein: 9.62g, Carbohydrates: 29.38g, Fiber: 1.6g, Fat: 24.45g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/5be0540d-2db2-4ab5-a60b-fd8cf78bd9cf_f73357f7-caa6-4401-8916-abc65dc1d516.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 31500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "300 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "5.0",
-                                                "ratingCount": "4 ratings",
-                                                "ratingCountV2": "4"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "parentId": "21397553",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "155565459",
-                                        "name": "Spanish Style Iced Coffee",
-                                        "category": "Brewed Coffee",
-                                        "description": "315 ml | A cold and creamy treat made with our signature espresso poured over layers of milk and sweetened condensed milk, topped off with ice.  [Energy: 136 kcal, Protein: 6.48g, Carbohydrates: 10.13g, Fiber: 0g, Fat: 7.88g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/15/a612d572-7bb1-4484-805d-653cc2ef264b_98fa7381-7fb9-40b7-b754-10b9a3c99989.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 30500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "315 ml"
-                                        },
-                                        "ribbon": {
-                                            "text": "Bestseller",
-                                            "textColor": "#ffffff",
-                                            "topBackgroundColor": "#d53d4c",
-                                            "bottomBackgroundColor": "#b02331"
-                                        },
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "isBestseller": true,
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "3.9",
-                                                "ratingCount": "11 ratings",
-                                                "ratingCountV2": "11"
-                                            },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#D9EFEC",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_medium",
-                                                "ratingTextColor": "rating_medium",
-                                                "ratingCountTextColor": "rating_medium",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
-                                            }
-                                        },
-                                        "imageBadges": [
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237736",
+                                "name": "Iced Espresso",
+                                "category": "Brewed Coffee",
+                                "description": "100 ml | Espresso poured over ice. (brewed using our finest house blend - silver oak cafe blend - made with some of india's highest scoring coffee beans. ) [Energy: 20 kcal, Protein: 1.12g, Carbohydrates: 3.72g, Fiber: 0g, Fat: 0.2g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/b4da0536-1121-4d30-a098-f142894effa6_e1eede25-ce21-4721-86bc-84d4e9f0afd4.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 21000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493135",
+                                        "groupName": "Choice  Of Milk",
+                                        "choices": [
                                             {
-                                                "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                                "id": "139435134",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "127396868",
+                                                "name": "Regular Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
                                         ],
-                                        "parentId": "92882326",
-                                        "menuFilterIds": [
-                                            "bestseller",
-                                            "VEG"
-                                        ]
-                                    },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "100 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {}
+                                },
+                                "parentId": "21397547",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
                             },
-                            {
-                                "card": {
-                                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-                                    "info": {
-                                        "id": "126237743",
-                                        "name": "Trioccino Frappe",
-                                        "category": "Brewed Coffee",
-                                        "description": "350 ml | This is our unique twist on a classic blended frappe. It has the deliciousness of coffee brewed 3 ways - specialty instant, cold brew from dhak blend and our signature shot of espresso. This decoction is blended with indulgent vanilla ice cream, giving birth to a decadent and creamy drink.  [Energy: 475 kcal, Protein: 8.93g, Carbohydrates: 49.35g, Fiber: 0g, Fat: 27.13g]",
-                                        "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/16/77da0def-65f2-4110-961d-b232ff805323_3aacb23d-f3d5-4ce6-9340-4c85a5694c1a.jpg",
-                                        "inStock": 1,
-                                        "isVeg": 1,
-                                        "price": 33500,
-                                        "variants": {},
-                                        "variantsV2": {},
-                                        "itemAttribute": {
-                                            "vegClassifier": "VEG",
-                                            "portionSize": "350 ml"
-                                        },
-                                        "ribbon": {},
-                                        "type": "ITEM",
-                                        "itemBadge": {},
-                                        "badgesV2": {},
-                                        "ratings": {
-                                            "aggregatedRating": {
-                                                "rating": "4.2",
-                                                "ratingCount": "19 ratings",
-                                                "ratingCountV2": "19"
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237741",
+                                "name": "Iced Latte",
+                                "category": "Brewed Coffee",
+                                "description": "315 ml | Espresso and chilled milk. No fuss, just smooth and strong.  [Energy: 136 kcal, Allergen: milk, Protein: 6.48g, Carbohydrates: 10.13g, Fiber: 0g, Fat: 7.88g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/68c29dea-baba-4e3d-89b1-982de326e30f_dac3051b-249b-4b77-9636-19b7928e9225.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 27500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493137",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
+                                            {
+                                                "id": "143460324",
+                                                "name": "Oat Milk",
+                                                "price": 1905,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             },
-                                            "ratingsPresentationConfig": {
-                                                "bgGradient": {
-                                                    "colours": [
-                                                        "#C8F9E5",
-                                                        "#00FFFFFF"
-                                                    ],
-                                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
-                                                },
-                                                "ratingIconColor": "rating_very_good",
-                                                "ratingTextColor": "rating_very_good",
-                                                "ratingCountTextColor": "rating_very_good",
-                                                "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
-                                                "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                            {
+                                                "id": "139435139",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249207",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
                                             }
-                                        },
-                                        "parentId": "76893652",
-                                        "menuFilterIds": [
-                                            "VEG",
-                                            "toprated"
-                                        ]
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "315 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.7",
+                                        "ratingCount": "14 ratings",
+                                        "ratingCountV2": "14"
                                     },
-                                    "analytics": {},
-                                    "hideRestaurantDetails": true
-                                }
-                            }
-                        ],
-                        "subtitleSuffix": {},
-                        "categoryId": "61791640"
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    }
+                                ],
+                                "parentId": "21397549",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "126237745",
+                                "name": "Cold Brew With Milk",
+                                "category": "Brewed Coffee",
+                                "description": "310 ml | For people who like a balance of cold coffee and cold brew, this delicious latte style cold brew has notes of creamy milk chocolate, nuts and caramel.  [Energy: 113 kcal, Allergen: milk, Protein: 4.59g, Carbohydrates: 15.12g, Fiber: 0g, Fat: 3.84g]",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/4/ff95a46f-a520-419f-84aa-c43ec00cd71f_778fb9b1-e7c4-4cf9-94a9-035da2b444f0.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 24000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "116493140",
+                                        "groupName": "Choice Of Milk",
+                                        "choices": [
+                                            {
+                                                "id": "139435144",
+                                                "name": "Lactose-free Milk",
+                                                "price": 2000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "116249172",
+                                                "name": "Regular Milk",
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1,
+                                        "minAddons": 1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "310 ml"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "3 ratings",
+                                        "ratingCountV2": "3"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Low%20cal/Low%20cal%201_1.png"
+                                    }
+                                ],
+                                "parentId": "21397179",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
                     }
                 ],
                 "image": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/adb18ac3-9e29-4cb6-abf1-a0ca85e96478_bfee204d-2ef4-42f9-89e7-12d69a41d3c5.jpg",
