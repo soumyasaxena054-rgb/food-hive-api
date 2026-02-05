@@ -1,0 +1,1547 @@
+[
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                "info": {
+                    "id": "491843",
+                    "name": "Theobroma",
+                    "city": "Mumbai",
+                    "slugs": {
+                        "restaurant": "theobroma-cbd-belapur-cbd-belapur",
+                        "city": "mumbai"
+                    },
+                    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/5/87f70a40-248d-42d7-a95e-05c33e9a62f8_491843.JPG",
+                    "locality": "CBD Belapur",
+                    "areaName": "CBD Belapur",
+                    "costForTwo": "40000",
+                    "costForTwoMessage": "₹400 for two",
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "avgRating": 4.5,
+                    "feeDetails": {
+                        "restaurantId": "491843",
+                        "fees": [
+                            {}
+                        ]
+                    },
+                    "parentId": "1040",
+                    "avgRatingString": "4.5",
+                    "totalRatingsString": "3.4K+ ratings",
+                    "sla": {
+                        "restaurantId": "491843",
+                        "deliveryTime": 21,
+                        "minDeliveryTime": 20,
+                        "maxDeliveryTime": 25,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "stressFactor": 1,
+                        "rainMode": "RAIN_MODE_NONE",
+                        "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                        "zoneId": 310,
+                        "slaString": "20-25 MINS",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                        "nextCloseTime": "2026-02-05 23:59:00",
+                        "visibility": true,
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                        "header": "Freedel",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "7.5% off upto ₹100| Above ₹399",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "visible": true
+                    },
+                    "badges": {},
+                    "slugString": "theobroma-cbd-belapur-cbd-belapur",
+                    "multiOutlet": true,
+                    "isOpen": true,
+                    "labels": [
+                        {
+                            "title": "Timings",
+                            "message": "null"
+                        },
+                        {
+                            "title": "Address",
+                            "message": "Plot No. 1, Shop No. 1/16, CBD Belapur, Sector No 15, Mumbai"
+                        },
+                        {
+                            "title": "Cuisines",
+                            "message": "Bakery,Desserts"
+                        }
+                    ],
+                    "logo": "v1643287103/Gourmet-Rework/Theobroma.png",
+                    "totalRatings": 3400,
+                    "aggregatedDiscountInfoV2": {
+                        "header": "Freedel",
+                        "shortDescriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ],
+                        "descriptionList": [
+                            {
+                                "meta": "Freedel",
+                                "discountType": "FREE_DELIVERY",
+                                "operationType": "RESTAURANT"
+                            },
+                            {
+                                "meta": "7.5% off upto ₹100| Above ₹399",
+                                "discountType": "Percentage",
+                                "operationType": "RESTAURANT"
+                            }
+                        ]
+                    },
+                    "type": "F",
+                    "headerBanner": {
+                        "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/491843"
+                    },
+                    "generalPurposeInfoListV2": [
+                        {
+                            "cta": {
+                                "info": {
+                                    "recordings": {}
+                                },
+                                "linkCta": {}
+                            }
+                        }
+                    ],
+                    "ratingSlab": "RATING_SLAB_5",
+                    "restaurantCategory": "RESTAURANT_CATEGORY_GOURMET",
+                    "backgroundImage": "v1642746515/G%20menu%20headers/Theobroma.png",
+                    "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                    },
+                    "hasBestsellerItems": true,
+                    "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                    },
+                    "latLong": "19.01233544,73.0366992",
+                    "backgroundImageOverlayInfo": {},
+                    "featuredSectionInfo": {}
+                },
+                "analytics": {}
+            },
+            "relevance": {
+                "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+            }
+        }
+    },
+    {
+        "card": {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                "title": "Strawberry Specials",
+                "itemCards": [
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "129012004",
+                                "name": "Strawberry & Fresh Cream Pastry [1 Piece]",
+                                "category": "Strawberry Specials",
+                                "description": "Layers of strawberry jam, fresh cream and soft vanilla sponge cake topped with fresh strawberries. Allergens - Milk, Wheat, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/8/8e2dc825-8109-4574-bd2b-be1da55ce213_1600060d-9f66-4d1d-8700-2950bfbbde5b.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 19500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "3.9",
+                                        "ratingCount": "12 ratings",
+                                        "ratingCountV2": "12"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#D9EFEC",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_medium",
+                                        "ratingTextColor": "rating_medium",
+                                        "ratingCountTextColor": "rating_medium",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "74894768",
+                                "menuFilterIds": [
+                                    "VEG"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "106620328",
+                                "name": "Strawberry Tart [1 Piece]",
+                                "category": "Strawberry Specials",
+                                "description": "Buttery tart shell filled with strawberry compote and diplomat cream, topped with fresh cream and fresh strawberries. Allergens - Milk, Wheat, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/8/25f53bb0-1be5-4b29-8cf0-3974a58e9604_3b8c484f-4306-44e3-b1c6-6079fe64ea0e.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 22500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "269795495",
+                                        "groupName": "Pick any 1 item",
+                                        "choices": [
+                                            {
+                                                "id": "143916212",
+                                                "name": "Oats & Raisins Big Cookie [1 Piece]",
+                                                "price": 8000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916213",
+                                                "name": "Chocolate Chip Big Cookie [1 Piece]",
+                                                "price": 10000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916214",
+                                                "name": "Goodie Bag Small",
+                                                "price": 2500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.9",
+                                        "ratingCount": "11 ratings",
+                                        "ratingCountV2": "11"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "40457301",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "186239309",
+                                "name": "Strawberry & Chocolate Mousse Pastry [1 Piece]",
+                                "category": "Strawberry Specials",
+                                "description": "Layers of creamy chocolate mousse and moist chocolate sponge cake, topped with fresh strawberries. Allergens - Milk, Wheat, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/8/bd23d964-a24b-4863-a6d4-606f0912e08d_7e159529-f813-4da0-99c7-5942e3b8a48f.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 22500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.4",
+                                        "ratingCount": "4 ratings",
+                                        "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "113199598",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "186239307",
+                                "name": "Strawberry & Fresh Cream Cake [540g]",
+                                "category": "Strawberry Specials",
+                                "description": "Layers of strawberry jam, diplomat cream and soft vanilla sponge cake covered with flaked almonds and topped with fresh strawberries. Allergens - Milk, Wheat, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/7/bab1d7b9-f3e9-4166-9c87-b5941c7be4de_950dd1c7-97ff-4ced-952f-62c80808826f.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 77500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "263277630",
+                                        "groupName": "Topper",
+                                        "choices": [
+                                            {
+                                                "id": "143010140",
+                                                "name": "Happy Birthday",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010139",
+                                                "name": "Happy Anniversary",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010125",
+                                                "name": "Congratulations",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010123",
+                                                "name": "Thank You",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010136",
+                                                "name": "Best Mom Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010133",
+                                                "name": "Best Bro Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010130",
+                                                "name": "BAE",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010138",
+                                                "name": "World's Best Sister",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010129",
+                                                "name": "World's Best Hubby",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010124",
+                                                "name": "Best Friend Forever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010122",
+                                                "name": "World's Best Wife",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010127",
+                                                "name": "Best Teacher Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010126",
+                                                "name": "World’s best daughter",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010132",
+                                                "name": "Best son ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010128",
+                                                "name": "Happy New year",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "263277631",
+                                        "groupName": "Candles",
+                                        "choices": [
+                                            {
+                                                "id": "143010135",
+                                                "name": "Twisted Candles (Small)",
+                                                "price": 3000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010134",
+                                                "name": "Twisted Candles (Big)",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010131",
+                                                "name": "Magic Candles",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010137",
+                                                "name": "Spiral Candles",
+                                                "price": 7500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.0",
+                                        "ratingCount": "2 ratings",
+                                        "ratingCountV2": "2"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "113199600",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "163784954",
+                                "name": "Chocolate & Strawberry Bento Cake [300g]",
+                                "category": "Cakes",
+                                "description": "Layers of creamy chocolate truffle, strawberry filling and moist chocolate sponge cake. Allergens - Wheat, Milk",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/6/907d51f8-1dfa-4f6c-9c6c-a32b94c479c5_2d18da56-b4ce-452b-b2a7-53a1780c332c.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 37500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "263277709",
+                                        "groupName": "Topper",
+                                        "choices": [
+                                            {
+                                                "id": "143010125",
+                                                "name": "Congratulations",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010136",
+                                                "name": "Best Mom Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010124",
+                                                "name": "Best Friend Forever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010127",
+                                                "name": "Best Teacher Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010138",
+                                                "name": "World's Best Sister",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010126",
+                                                "name": "World’s best daughter",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010132",
+                                                "name": "Best son ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010123",
+                                                "name": "Thank You",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010122",
+                                                "name": "World's Best Wife",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010133",
+                                                "name": "Best Bro Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010130",
+                                                "name": "BAE",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010140",
+                                                "name": "Happy Birthday",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010129",
+                                                "name": "World's Best Hubby",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010139",
+                                                "name": "Happy Anniversary",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010128",
+                                                "name": "Happy New year",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "269795524",
+                                        "groupName": "Pick any 1 item",
+                                        "choices": [
+                                            {
+                                                "id": "143916212",
+                                                "name": "Oats & Raisins Big Cookie [1 Piece]",
+                                                "price": 8000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916213",
+                                                "name": "Chocolate Chip Big Cookie [1 Piece]",
+                                                "price": 10000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916214",
+                                                "name": "Goodie Bag Small",
+                                                "price": 2500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "263277710",
+                                        "groupName": "Candles",
+                                        "choices": [
+                                            {
+                                                "id": "143010131",
+                                                "name": "Magic Candles",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010135",
+                                                "name": "Twisted Candles (Small)",
+                                                "price": 3000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010134",
+                                                "name": "Twisted Candles (Big)",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010137",
+                                                "name": "Spiral Candles",
+                                                "price": 7500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "isBestseller": true,
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.5",
+                                        "ratingCount": "59 ratings",
+                                        "ratingCountV2": "59"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "101963081",
+                                "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "186100521",
+                                "name": "Lotus Biscoff Bento Cheesecake [320g]",
+                                "category": "Cakes",
+                                "description": "Classic and creamy baked cheesecake topped with caramalised Lotus Biscoff spread. Allergens - Gluten, Dairy, Soy.",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/4/1f2a4e28-8e8d-47f1-80c2-923e8187a31b_028122f7-678c-4776-934b-e4e2cceeafc6.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 59500,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "263277619",
+                                        "groupName": "Topper",
+                                        "choices": [
+                                            {
+                                                "id": "143010125",
+                                                "name": "Congratulations",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010136",
+                                                "name": "Best Mom Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010124",
+                                                "name": "Best Friend Forever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010127",
+                                                "name": "Best Teacher Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010138",
+                                                "name": "World's Best Sister",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010126",
+                                                "name": "World’s best daughter",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010132",
+                                                "name": "Best son ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010123",
+                                                "name": "Thank You",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010122",
+                                                "name": "World's Best Wife",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010133",
+                                                "name": "Best Bro Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010130",
+                                                "name": "BAE",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010140",
+                                                "name": "Happy Birthday",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010129",
+                                                "name": "World's Best Hubby",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010139",
+                                                "name": "Happy Anniversary",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010128",
+                                                "name": "Happy New year",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "269795296",
+                                        "groupName": "Pick any 1 item",
+                                        "choices": [
+                                            {
+                                                "id": "143916212",
+                                                "name": "Oats & Raisins Big Cookie [1 Piece]",
+                                                "price": 8000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916213",
+                                                "name": "Chocolate Chip Big Cookie [1 Piece]",
+                                                "price": 10000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143916214",
+                                                "name": "Goodie Bag Small",
+                                                "price": 2500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "263277622",
+                                        "groupName": "Candles",
+                                        "choices": [
+                                            {
+                                                "id": "143010131",
+                                                "name": "Magic Candles",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010135",
+                                                "name": "Twisted Candles (Small)",
+                                                "price": 3000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010134",
+                                                "name": "Twisted Candles (Big)",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010137",
+                                                "name": "Spiral Candles",
+                                                "price": 7500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "5.0",
+                                        "ratingCount": "6 ratings",
+                                        "ratingCountV2": "6"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "113115067",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "106620330",
+                                "name": "Strawberry Custard Cake [550g]",
+                                "category": "Cakes",
+                                "description": "Strawberry jam and custard cream layered between soft vanilla sponge cake, decorated with strawberry jelly and white chocolate flakes. Allergens - Wheat, Dairy, Soy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/22/825197c0-eafd-4c6b-af5c-505e49d897a0_555e0c3d-ddd4-412b-bf8d-fac8c8421fa8.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 45000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "263277598",
+                                        "groupName": "Topper",
+                                        "choices": [
+                                            {
+                                                "id": "143010140",
+                                                "name": "Happy Birthday",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010139",
+                                                "name": "Happy Anniversary",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010125",
+                                                "name": "Congratulations",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010123",
+                                                "name": "Thank You",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010136",
+                                                "name": "Best Mom Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010133",
+                                                "name": "Best Bro Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010130",
+                                                "name": "BAE",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010138",
+                                                "name": "World's Best Sister",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010129",
+                                                "name": "World's Best Hubby",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010124",
+                                                "name": "Best Friend Forever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010122",
+                                                "name": "World's Best Wife",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010127",
+                                                "name": "Best Teacher Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010126",
+                                                "name": "World’s best daughter",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010132",
+                                                "name": "Best son ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010128",
+                                                "name": "Happy New year",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "263277599",
+                                        "groupName": "Candles",
+                                        "choices": [
+                                            {
+                                                "id": "143010135",
+                                                "name": "Twisted Candles (Small)",
+                                                "price": 3000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010134",
+                                                "name": "Twisted Candles (Big)",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010131",
+                                                "name": "Magic Candles",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010137",
+                                                "name": "Spiral Candles",
+                                                "price": 7500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.7",
+                                        "ratingCount": "22 ratings",
+                                        "ratingCountV2": "22"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "102775746",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    },
+                    {
+                        "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                                "id": "138448190",
+                                "name": "Choco-Vanilla Oreo Cake [540g]",
+                                "category": "Cakes",
+                                "description": "Layers of house-made Oreo & chocolate spread, Oreo & vanilla cream, rich dark chocolate ganache and soft vanilla sponge cake, topped with Oreo cookies. Allergens - Wheat, Dairy, Soy",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/20/fd33ec4c-69ba-4d64-97c9-a88feb73dbf4_cee8c397-3302-425e-ad0b-5afb1a38530b.jpg",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "price": 50000,
+                                "variants": {},
+                                "variantsV2": {},
+                                "addons": [
+                                    {
+                                        "groupId": "263277646",
+                                        "groupName": "Topper",
+                                        "choices": [
+                                            {
+                                                "id": "143010140",
+                                                "name": "Happy Birthday",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010139",
+                                                "name": "Happy Anniversary",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010125",
+                                                "name": "Congratulations",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010123",
+                                                "name": "Thank You",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010136",
+                                                "name": "Best Mom Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010133",
+                                                "name": "Best Bro Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010130",
+                                                "name": "BAE",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010138",
+                                                "name": "World's Best Sister",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010129",
+                                                "name": "World's Best Hubby",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010124",
+                                                "name": "Best Friend Forever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010122",
+                                                "name": "World's Best Wife",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010127",
+                                                "name": "Best Teacher Ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010126",
+                                                "name": "World’s best daughter",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010132",
+                                                "name": "Best son ever",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010128",
+                                                "name": "Happy New year",
+                                                "price": 4000,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    },
+                                    {
+                                        "groupId": "263277649",
+                                        "groupName": "Candles",
+                                        "choices": [
+                                            {
+                                                "id": "143010135",
+                                                "name": "Twisted Candles (Small)",
+                                                "price": 3000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010134",
+                                                "name": "Twisted Candles (Big)",
+                                                "price": 4000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010131",
+                                                "name": "Magic Candles",
+                                                "price": 6000,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            },
+                                            {
+                                                "id": "143010137",
+                                                "name": "Spiral Candles",
+                                                "price": 7500,
+                                                "inStock": 1,
+                                                "isVeg": 1,
+                                                "isEnabled": 1
+                                            }
+                                        ],
+                                        "maxAddons": 1,
+                                        "maxFreeAddons": -1
+                                    }
+                                ],
+                                "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                },
+                                "ribbon": {},
+                                "type": "ITEM",
+                                "itemBadge": {},
+                                "badgesV2": {},
+                                "ratings": {
+                                    "aggregatedRating": {
+                                        "rating": "4.8",
+                                        "ratingCount": "9 ratings",
+                                        "ratingCountV2": "9"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                        "bgGradient": {
+                                            "colours": [
+                                                "#C8F9E5",
+                                                "#00FFFFFF"
+                                            ],
+                                            "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                        },
+                                        "ratingIconColor": "rating_very_good",
+                                        "ratingTextColor": "rating_very_good",
+                                        "ratingCountTextColor": "rating_very_good",
+                                        "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                        "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                },
+                                "parentId": "102775716",
+                                "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                ]
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                        }
+                    }
+                ],
+                "subtitleSuffix": {},
+                "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/8/8e2dc825-8109-4574-bd2b-be1da55ce213_1600060d-9f66-4d1d-8700-2950bfbbde5b.jpg",
+                "categoryId": "68536868"
+            }
+        }
+    }
+]
