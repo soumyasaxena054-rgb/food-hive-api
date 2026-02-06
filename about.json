@@ -1,0 +1,8 @@
+[
+    {
+        "aboutUs":{
+        
+            "message":"This project is my hands-on attempt at recreating a real-world food delivery experience using React. \nI built a Swiggy-inspired UI and core functionalities to showcase my frontend skills with a focus on clean architecture, performance, and responsive design. \nSince public APIs can be unstable, I created dummy/mock APIs based on real Swiggy response data to simulate production scenarios and ensure the app works reliably even after deployment. \nThe goal isn’t to clone but to learn, experiment, and demonstrate how I build scalable, production-ready React applications. 🚀💻✨"
+        }
+    }
+]
